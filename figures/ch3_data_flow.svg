@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <defs>
+    <marker id="arrowdfd" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2563eb"/>
+    </marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .actor{fill:#fef3c7;stroke:#d97706;stroke-width:2.3;rx:18;ry:18}
+      .process{fill:#eff6ff;stroke:#2563eb;stroke-width:2.3;rx:18;ry:18}
+      .store{fill:#f8fafc;stroke:#475569;stroke-width:2.3;rx:8;ry:8}
+      .native{fill:#f0fdf4;stroke:#16a34a;stroke-width:2.3;rx:18;ry:18}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:17px;font-weight:700;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:13px;fill:#475569}
+      .arrow{stroke:#2563eb;stroke-width:2.2;fill:none;marker-end:url(#arrowdfd)}
+      .dash{stroke:#64748b;stroke-width:1.8;fill:none;stroke-dasharray:6 5;marker-end:url(#arrowdfd)}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="title">端侧 LLM 应用数据流图</text>
+
+  <rect x="60" y="110" width="170" height="80" class="actor"/>
+  <text x="145" y="145" text-anchor="middle" class="text">普通用户</text>
+  <text x="145" y="170" text-anchor="middle" class="small">文本 / 语音 / 文档</text>
+
+  <rect x="310" y="90" width="230" height="105" class="process"/>
+  <text x="425" y="130" text-anchor="middle" class="text">P1 输入与界面交互</text>
+  <text x="425" y="158" text-anchor="middle" class="small">Compose 页面、会话选择</text>
+  <text x="425" y="179" text-anchor="middle" class="small">RAG 开关、模板填充</text>
+
+  <rect x="650" y="90" width="230" height="105" class="process"/>
+  <text x="765" y="130" text-anchor="middle" class="text">P2 对话编排</text>
+  <text x="765" y="158" text-anchor="middle" class="small">ChatViewModel</text>
+  <text x="765" y="179" text-anchor="middle" class="small">提示词组装与流式状态</text>
+
+  <rect x="950" y="90" width="185" height="105" class="native"/>
+  <text x="1042" y="130" text-anchor="middle" class="text">P3 LLM 推理</text>
+  <text x="1042" y="158" text-anchor="middle" class="small">JNI + MNN</text>
+  <text x="1042" y="179" text-anchor="middle" class="small">Token 流式输出</text>
+
+  <rect x="310" y="340" width="230" height="105" class="process"/>
+  <text x="425" y="380" text-anchor="middle" class="text">P4 文档处理</text>
+  <text x="425" y="408" text-anchor="middle" class="small">复制、解析、切片</text>
+  <text x="425" y="429" text-anchor="middle" class="small">生成分块文本</text>
+
+  <rect x="650" y="340" width="230" height="105" class="native"/>
+  <text x="765" y="380" text-anchor="middle" class="text">P5 向量化与检索</text>
+  <text x="765" y="408" text-anchor="middle" class="small">Embedding 计算</text>
+  <text x="765" y="429" text-anchor="middle" class="small">余弦相似度 Top-K</text>
+
+  <rect x="950" y="340" width="185" height="105" class="native"/>
+  <text x="1042" y="380" text-anchor="middle" class="text">P6 语音识别</text>
+  <text x="1042" y="408" text-anchor="middle" class="small">AudioRecord</text>
+  <text x="1042" y="429" text-anchor="middle" class="small">Vosk 转写文本</text>
+
+  <rect x="285" y="610" width="250" height="75" class="store"/>
+  <text x="410" y="643" text-anchor="middle" class="text">D1 Room 数据库</text>
+  <text x="410" y="668" text-anchor="middle" class="small">会话、消息、文档、分块、向量</text>
+
+  <rect x="665" y="610" width="250" height="75" class="store"/>
+  <text x="790" y="643" text-anchor="middle" class="text">D2 DataStore / 私有目录</text>
+  <text x="790" y="668" text-anchor="middle" class="small">模型路径、文档副本、语音模型</text>
+
+  <path d="M230 150 H310" class="arrow"/>
+  <path d="M540 142 H650" class="arrow"/>
+  <path d="M880 142 H950" class="arrow"/>
+  <path d="M950 180 C860 235 780 250 765 340" class="dash"/>
+  <path d="M1042 195 C1042 265 1042 285 1042 340" class="dash"/>
+  <path d="M425 195 V340" class="arrow"/>
+  <path d="M540 392 H650" class="arrow"/>
+  <path d="M765 340 C765 260 765 235 765 195" class="arrow"/>
+  <path d="M1042 445 C1000 520 900 575 790 610" class="arrow"/>
+  <path d="M425 445 C420 520 415 565 410 610" class="arrow"/>
+  <path d="M765 445 C750 520 625 575 535 630" class="arrow"/>
+  <path d="M765 445 V610" class="arrow"/>
+  <path d="M650 170 C555 250 500 515 410 610" class="dash"/>
+  <path d="M650 120 C600 105 560 105 540 120" class="dash"/>
+  <path d="M950 125 C920 115 900 115 880 125" class="dash"/>
+
+  <text x="275" y="135" class="small">用户输入</text>
+  <text x="585" y="125" class="small">事件/状态</text>
+  <text x="895" y="125" class="small">提示词</text>
+  <text x="810" y="267" class="small">RAG 上下文</text>
+  <text x="1060" y="270" class="small">转写文本</text>
+  <text x="445" y="275" class="small">文档 Uri</text>
+</svg>
