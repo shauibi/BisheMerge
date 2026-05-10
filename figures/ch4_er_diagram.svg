@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="arrower" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .entity{fill:#f8fafc;stroke:#334155;stroke-width:2.4;rx:14;ry:14}
+      .head{fill:#dbeafe;stroke:#334155;stroke-width:2.4;rx:14;ry:14}
+      .headg{fill:#dcfce7;stroke:#334155;stroke-width:2.4;rx:14;ry:14}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:17px;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:14px;fill:#475569}
+      .label{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:18px;font-weight:700;fill:#111827}
+      .rel{stroke:#334155;stroke-width:2.5;fill:none;marker-end:url(#arrower)}
+    </style>
+  </defs>
+  <text x="600" y="48" text-anchor="middle" class="title">图4-3 数据库 E-R 图</text>
+
+  <rect x="115" y="120" width="360" height="185" class="entity"/>
+  <rect x="115" y="120" width="360" height="46" class="head"/>
+  <text x="295" y="151" text-anchor="middle" class="label">sessions 会话表</text>
+  <text x="145" y="195" class="text">PK id：会话编号</text>
+  <text x="145" y="230" class="text">title：会话标题</text>
+  <text x="145" y="265" class="text">createTime：创建时间</text>
+
+  <rect x="725" y="120" width="360" height="220" class="entity"/>
+  <rect x="725" y="120" width="360" height="46" class="head"/>
+  <text x="905" y="151" text-anchor="middle" class="label">messages 消息表</text>
+  <text x="755" y="195" class="text">PK id：消息编号</text>
+  <text x="755" y="230" class="text">FK sessionId：所属会话</text>
+  <text x="755" y="265" class="text">role：user / assistant</text>
+  <text x="755" y="300" class="text">content / imagePath / timestamp</text>
+
+  <rect x="115" y="455" width="360" height="220" class="entity"/>
+  <rect x="115" y="455" width="360" height="46" class="headg"/>
+  <text x="295" y="486" text-anchor="middle" class="label">documents 文档表</text>
+  <text x="145" y="530" class="text">PK id：文档编号</text>
+  <text x="145" y="565" class="text">fileName / fileType / fileSize</text>
+  <text x="145" y="600" class="text">importTime：导入时间</text>
+  <text x="145" y="635" class="text">chunkCount / status</text>
+
+  <rect x="725" y="455" width="360" height="220" class="entity"/>
+  <rect x="725" y="455" width="360" height="46" class="headg"/>
+  <text x="905" y="486" text-anchor="middle" class="label">chunks 分块表</text>
+  <text x="755" y="530" class="text">PK id：分块编号</text>
+  <text x="755" y="565" class="text">FK documentId：所属文档</text>
+  <text x="755" y="600" class="text">chunkIndex / content</text>
+  <text x="755" y="635" class="text">embedding(BLOB) / tokenCount</text>
+
+  <path d="M475 215 H715" class="rel"/>
+  <text x="595" y="200" text-anchor="middle" class="small">1 : N</text>
+  <text x="595" y="240" text-anchor="middle" class="small">一个会话包含多条消息</text>
+
+  <path d="M475 555 H715" class="rel"/>
+  <text x="595" y="540" text-anchor="middle" class="small">1 : N</text>
+  <text x="595" y="580" text-anchor="middle" class="small">一个文档包含多个分块</text>
+</svg>
