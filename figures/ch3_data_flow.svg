@@ -16,8 +16,6 @@
     </style>
   </defs>
 
-  <text x="600" y="48" text-anchor="middle" class="title">端侧 LLM 应用数据流图</text>
-
   <rect x="60" y="110" width="170" height="80" class="actor"/>
   <text x="145" y="145" text-anchor="middle" class="text">普通用户</text>
   <text x="145" y="170" text-anchor="middle" class="small">文本 / 语音 / 文档</text>
