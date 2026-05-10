@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there is at least one person in the image. The image shows multiple individuals in what appears to be an office or meeting room. One person in the foreground is leaning over a table, while others are standing or seated in the background. The presence of multiple people, along with their actions and attire, confirms there are people in the image.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No cat.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. Specifically, there is a plastic bottle of what appears to be a beverage (possibly a soda) with a green label and a green cap, sitting on the table. There is also a small bottle of what looks like a condiment or sauce on the table, next to a cup.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table has a cup and a bottle of soda, but no wine glass is visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. It's a white table with several people gathered around it, and there are various items on it, such as a cupcake, a bottle of soda, and some snacks. The table is being used as a gathering place for the people in the scene.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No snowboard is visible in the image. The scene appears to be an indoor setting, possibly an office or meeting room, with people gathered around a table. The focus is on individuals interacting with food items (like a small cake) and beverages. There are no objects or equipment that resemble a snowboard.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. The image shows a young child with dark hair, wearing a light-colored shirt with dark polka dots, leaning over the kitchen counter near the sink. The child appears to be looking towards the camera with an expression of curiosity or surprise.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No, there is no clock in the image.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image. Specifically, there is a metal bowl filled with green grapes located in the kitchen sink. The bowl is positioned on the left side of the sink, near the child.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The image shows a young child at a kitchen sink with various kitchen items and a stainless steel sink.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

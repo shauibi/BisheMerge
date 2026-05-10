@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Someone might go to this place — likely a bustling shopping district in Asia, such as Hong Kong’s Mong Kok or a similar urban center — for a variety of reasons:\n\n1. **Shopping & Retail** — The street is lined with bright neon signs, crowded sidewalks, and numerous storefronts. People are likely here to browse, shop, or take advantage of the wide variety of goods — from clothing to electronics to snacks — often available at competitive prices.\n\n2. **Dining & Food** — Such areas are typically packed with restaurants, street food stalls, and cafes. Visitors might be seeking out local cuisine, trying street food, or",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "The new company that has created competition for traditional taxi transportation is **Uber**.\n\nUber, launched in 2009, revolutionized urban mobility by using smartphone apps to connect riders with drivers, offering flexible pricing, real-time tracking, and a more user-friendly experience than traditional taxis. This disrupted the taxi industry globally, forcing traditional taxi companies to adapt or face significant market losses.\n\nOther competitors include **Lyft** (which also emerged around the same time), **Didi Chuxing** (in China), and various local ride-hailing services. These platforms have fundamentally changed how people access transportation in cities worldwide.",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "The mouse in the image is synonymous with a rodent. It is a computer mouse, which is often called a \"mouse\" because of its shape and because rodents are commonly called \"mice\" — the word \"mouse\" is used for both the computer peripheral and the small rodent.\n\nIn this context, the mouse is the object synonymous with a rodent.\n\n✅ **Answer: The mouse**",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image, the item on top of the stove is a **white microwave oven**.\n\n### What kind of beverage could one make with a microwave oven?\n\nWhile a microwave oven is primarily designed for heating and defrosting food, it can also be used to **heat or reheat beverages**, especially if they are already in a container or cup.\n\nHere’s what one could do with a microwave oven to make or heat a beverage:\n\n1. **Reheat a hot beverage** (like coffee, tea, or hot chocolate) that has been stored in a container.\n2. **Warm up milk or cream** for coffee or",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background are tall, slender palm trees. This is consistent with the tropical or coastal setting, likely in Hawaii, given the iconic island mountain (possibly Diamond Head) visible in the distance and the palm trees lining the beach.\n\nPalm trees are commonly found in tropical and subtropical regions and are a defining feature of many coastal landscapes, especially in places like Hawaii, the Caribbean, and southern Florida.",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This picture is taken from the **International Space Station (ISS)**.\n\nThe image shows astronauts (or perhaps astronauts in spacesuits) floating in microgravity, with Earth’s curved horizon and the blue-white gradient of the atmosphere visible below. The presence of the Earth’s curvature, the absence of gravity’s pull on the subjects, and the typical view from the ISS — including the faint glow of the sun and the thin atmospheric layer — all strongly indicate the location is the International Space Station.\n\nAdditionally, the presence of flags — including the UK flag — suggests this might be a crewed mission, possibly involving astronauts from the UK (such as from",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?\n\nThis image is taken from **\"The Hobbit\"** by J.R.R. Tolkien.\n\nThe display — a keyboard surrounded by LEGO minifigures — is likely a fan-made or themed representation inspired by **\"The Hobbit,\"** particularly the famous scene in which **Gollum** (or “the Gollum” in the movie adaptation) is shown typing on a keyboard in the movie *The Hobbit: The Desolation of Smaug* (or more accurately, *The Hobbit: The Battle of the Five Armies*), though it’s",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "That’s a great question! While I can’t browse stores or websites for you, I can help you find where to buy a bear similar to this one — especially if you’re looking for a **fluffy, vintage-style, or handmade teddy bear**.\n\nHere are some places and tips:\n\n---\n\n### 🧸 1. **Online Marketplaces (Best for Unique Finds)**\n\n- **Etsy.com** — This is the *best* place for vintage, handmade, or artisanal teddy bears. Search for:\n  - “fluffy teddy bear”\n  - “vintage stuffed bear”\n  - “",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This is a desktop computer setup.\n\nHere’s why:\n\n- There are **multiple monitors** arranged on the desk — at least three visible: one in the center, one to the right, and one to the left. This is typical of a desktop setup, as laptops usually have a single screen (or a small external monitor).\n- There’s a **separate keyboard and mouse** (visible in front of the central monitor), which are standard peripherals for desktops.\n- The **central monitor** is displaying a picture (possibly a photo or a user profile), while the others are showing code or system interfaces — a common desktop multitasking",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

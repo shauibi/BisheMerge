@@ -1,0 +1,7 @@
+rouge
+nltk
+jiwer
+pandas
+numpy
+requests
+Pillow

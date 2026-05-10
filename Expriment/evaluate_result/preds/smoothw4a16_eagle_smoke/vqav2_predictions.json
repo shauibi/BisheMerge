@@ -1,0 +1,19 @@
+[
+  {
+    "id": 257000,
+    "prediction": "Based on the provided image, there is a vehicle on the far right side of the frame.\n\n- The vehicle on the far right is a **red** truck.\n- It has some white text on its side, which appears to read \"CITY\" and \"CITY\" again (possibly \"CITY COUNCIL\" or similar, though slightly blurry).\n- It is a large, boxy truck, possibly a delivery or service truck.\n\nTherefore, the color of the car (or truck) on the far right is **red**.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  }
+]

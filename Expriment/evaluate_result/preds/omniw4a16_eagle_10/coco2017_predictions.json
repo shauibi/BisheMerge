@@ -1,0 +1,122 @@
+[
+  {
+    "id": "113588",
+    "prediction": "This",
+    "ground_truth": [
+      "several young students working at a desk with multiple computers",
+      "A young man at his workstation examines the monitor of a lap top, with one hand on the keyboard and the other on the mouse.",
+      "A man is working on a laptop next to other computers.",
+      "People in a large room, use multiple computers.",
+      "A young professional is working at his laptop while his coworker is reading material."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "574769",
+    "prediction": "This",
+    "ground_truth": [
+      "A woman in a room with a cat.",
+      "A girl smiles as she holds a cat and wears a brightly colored skirt.",
+      "a woman is holding a cat in her kitchen",
+      "A woman is working in a kitchen carrying a soft toy.",
+      "A woman is holding a cat in her kitchen."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "384213",
+    "prediction": "This image captures a rustic, lived-in kitchen with a distinct, cozy, and slightly worn charm. The space is illuminated primarily by natural light streaming through a large, multi-paned window that dominates the right side of the room. The window is adorned with cheerful, vintage-style green and white checkered curtains, which are drawn to one side and hang loosely, allowing the light to pour in and create a soft, dappled effect across the countertop and floor. Outside the window, leafless trees suggest a late autumn or winter setting.\n\nThe kitchen features a long, light-colored wooden countertop, possibly laminate or butcher block,",
+    "ground_truth": [
+      "A kitchen is shown with a variety of items on the counters.",
+      "A kitchen has the windows open and plaid curtains.",
+      "A kitchen with two windows and two metal sinks.",
+      "An older kitchen with cluttered counter tops but empty sink.",
+      "Glasses and bottles are placed near a kitchen sink."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "384553",
+    "prediction": "This",
+    "ground_truth": [
+      "A man riding an elephant into some water of a creek.",
+      "man riding an elephant into water surrounded by forest",
+      "A man riding an elephant in a river.",
+      "A man in a brown shirt rides an elephant into the water.",
+      "A man rides an elephant into a river."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "368402",
+    "prediction": "This image captures a bright, modern, and well-organized kitchen where a woman is actively cooking. \n\n**Setting:**\nThe kitchen features predominantly cream or off-white cabinetry with a clean, contemporary design. The countertops are made of a light-colored, speckled granite, and there are matching island countertops and a central island unit with a built-in stovetop and a white rice cooker or similar small appliance on it. The backsplash is a light, neutral color. The lighting is warm and inviting, with recessed ceiling lights and under-cabinet lighting. A large, stainless-steel refrigerator is visible in the background,",
+    "ground_truth": [
+      "The woman in the kitchen is holding a huge pan.",
+      "A chef carrying a large pan inside of a kitchen.",
+      "A woman is holding a large pan in a kitchen. ",
+      "A woman cooking in a kitchen with granite counters.",
+      "A woman cooking in her kitchen with a black pan."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "391895",
+    "prediction": "This image captures a rugged, rural scene set against a dramatic natural backdrop. In the foreground, a man dressed in a bright red long-sleeved shirt and a matching red cap is riding a heavily laden, vintage-style dirt bike or motorbike. He is positioned with his back to the viewer, looking forward along a muddy, unpaved trail. The bike is equipped with a large, red, pannier-style bag mounted on the rear, and its tires are visibly muddy, suggesting recent travel over rough terrain. The rider’s posture and the bike’s design suggest it’s suited for off-road or rural use.\n\nTo the right of",
+    "ground_truth": [
+      "A man with a red helmet on a small moped on a dirt road. ",
+      "Man riding a motor bike on a dirt road on the countryside.",
+      "A man riding on the back of a motorcycle.",
+      "A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains. ",
+      "A man in a red shirt and a red hat is on a motorcycle on a hill side."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "184613",
+    "prediction": "This",
+    "ground_truth": [
+      "A child holding a flowered umbrella and petting a yak.",
+      "A young man holding an umbrella next to a herd of cattle.",
+      "a young boy barefoot holding an umbrella touching the horn of a cow",
+      "A young boy with an umbrella who is touching the horn of a cow.",
+      "A boy holding an umbrella while standing next to livestock."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "309022",
+    "prediction": "This",
+    "ground_truth": [
+      "A commercial stainless kitchen with a pot of food cooking. ",
+      "Some food sits in a pot in a kitchen. ",
+      "A kitchen has all stainless steel appliances and counters.",
+      "a kitchen with a sink and many cooking machines and a pot of food",
+      "Food cooks in a pot on a stove in a kitchen."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "5802",
+    "prediction": "This",
+    "ground_truth": [
+      "Two men wearing aprons working in a commercial-style kitchen.",
+      "Chefs preparing food in a professional metallic style kitchen.",
+      "Two people standing around in a large kitchen.",
+      "A commercial kitchen with two men working to prepare several plates.",
+      "two men in white shirts in a large steel kitchen"
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "483108",
+    "prediction": "This",
+    "ground_truth": [
+      "A man on a bicycle riding next to a train",
+      "A person is riding a bicycle but there is a train in the background.",
+      "a red and white train and a man riding a bicycle",
+      "a guy that is riding his bike next to a train",
+      "A man riding a bike past a train traveling along tracks."
+    ],
+    "prompt": "Please describe this image in detail."
+  }
+]

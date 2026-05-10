@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "The car on the far right is red.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes. The image shows a white food truck with a red and white logo on its side, parked in a busy public area. The truck has a design that is commonly associated with ice cream vendors, especially given the context of the sunny day and the crowd of people walking around and enjoying the outdoors. The logo on the side of the truck appears to say \"ICE CREAM,\" confirming it is an ice cream truck.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime. The image clearly shows bright sunlight illuminating the scene, casting shadows on the ground, and the sky is bright blue with scattered clouds. People are outdoors, and the overall lighting conditions are consistent with a sunny day.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No. There is no dog visible in the image. The scene depicts a busy public square with tourists, food trucks, and the Arc de Triomphe in the background. The focus is on the crowd and the architecture, with no animals present.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the image provided, there is no clear, prominent advertisement for a specific shoe company visible. The image shows a bustling public square with the Arch of Triumph in the background, a crowd of people, food trucks, and some signage, but no explicit logo or advertisement for a shoe brand can be clearly identified. The red truck in the foreground has some text, but it's not legible enough to be read as a shoe brand name.\n\nTherefore, based on the visual information in the image, there is no identifiable shoe company advertised.",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "The truck in the image is **white** with **red** and **black** accents. The red is prominently featured on the side of the truck, possibly in a design or logo, and there are black details as well. The main body is white.",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "No\n\n**Final Answer: No, the man is not flying a kite.** The object in the sky is a **kiteboard (or kite surf) kite**, which is used to propel a person on a surfboard (kiteboard). The person on the beach is likely preparing to go kiting or has just finished.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The sky appears overcast and cloudy, with no visible moon or starlight. The scene is dominated by the ocean and the horizon, and the lighting suggests daytime under cloudy conditions.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on the image, there is **one person** visible in the picture. This person appears to be standing on the beach or near the water's edge, possibly observing the kitesurfer or simply enjoying the view. The kitesurfer (the person flying the red and white kite) is not clearly visible as a separate individual, but their presence is implied by the kite and the action of kitesurfing. However, since only **one person** is clearly identifiable in the foreground, the count is **one**.",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No, it's not the letter D. The image shows a red and black kite flying in the sky over a beach with waves. The kite is shaped like a curved arc, and it's not a letter at all.",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

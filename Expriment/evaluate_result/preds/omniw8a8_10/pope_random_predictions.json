@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there are several people in the image. The main focus is on a man in a light blue shirt leaning over a table, interacting with a dessert. In the background, you can see other people: one person on the left holding a phone, another person on the right in a black shirt, and a partially visible person behind the main subject. All of these are individuals in the scene.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No, there is no cat in the image. The picture shows people in what appears to be a meeting or casual gathering, with a table that has food items, drinks, and a few people standing or sitting around. No animals, including cats, are visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. On the right side of the white table, there is a clear plastic bottle with a green label and a green cap, which appears to be a beverage bottle. It is partially filled with a brown liquid, likely a type of soda or iced tea.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table has a white cup, a bottle of soda, and a cupcake, but no wine glasses are visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. It's a white, round table with a few items on it, including a chocolate cake, a bottle of soda, and some cups. People are gathered around it, suggesting it's being used for a casual gathering or meal.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No, there is no snowboard in the image. The scene depicts a group of people gathered around a table in what appears to be an office or meeting room setting. The table has food items like a cupcake, a bottle of soda, and some snacks, with people interacting casually. There are no snowboards or any equipment associated with snowboarding visible in the image.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. A young child, likely a toddler, is visible leaning over the kitchen counter near the sink. The child is wearing a white shirt with black polka dots and appears to be looking toward the camera or something off to the side.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No, there is no clock visible in the image. The focus is on the child, the kitchen sink, and the surrounding utensils and items, but no clock can be seen on the walls, countertops, or any other surface.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image.\n\nSpecifically, there is a metal bowl sitting inside the stainless steel kitchen sink. It contains green grapes and appears to be being used for washing or preparing the fruit. The bowl is positioned to the left of the sink's drain.\n\nAdditionally, there are other items that might be considered bowls or similar containers, such as:\n- The red plastic cup or bowl in the dish rack on the right side.\n- The white cup or mug also in the dish rack.\n- The white bowl with a lid on the left side of the counter.\n\nSo, yes, multiple bowls are visible in the image",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The picture shows a child at a kitchen sink, with various kitchen items and utensils around. There are no animals present, let alone an elephant.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

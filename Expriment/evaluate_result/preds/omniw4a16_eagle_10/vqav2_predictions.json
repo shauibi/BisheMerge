@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "The car on the far right is red.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes, there is an ice cream truck in the image. You can see it in the center of the photo: a white and red ice cream truck (with the word \"ICE CREAM\" visible on its side) parked on the street near the Arc de Triomphe. It appears to be a popular stop for tourists and locals alike.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime. The image shows a bright, sunny day with clear blue skies and distinct shadows cast by the people and vehicles. The sunlight is strong, illuminating the scene and creating high contrast, which is characteristic of daytime, especially around midday.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No. There is no dog visible in the image. The scene depicts a busy public square with pedestrians, food trucks, and the Arc de Triomphe (or its replica) in the background. All the people and vehicles are in the frame, but no dog can be seen.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the provided image, there is no visible shoe company advertised.\n\nThe image shows a busy outdoor scene with pedestrians and food trucks in front of the Arc de Triomphe in Paris. While there are some signs and logos visible (like on the food trucks and possibly on the buildings in the background), none of them are clearly identifiable as advertising a shoe company. The most prominent logo visible is \"Coca-Cola\" on one of the food trucks, but that is a beverage company, not a shoe company.\n\nTherefore, based on the visual information in the image, no shoe company is advertised.",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "Based on the image provided, the truck in the center of the scene, which appears to be a food truck or a similar mobile service vehicle, is predominantly **white**. It has a large red logo or design on its side, which appears to be the word \"ICE\" in a stylized font, possibly indicating it's an ice cream truck. The truck also has some black and red details on its side.\n\nSo, the color of the truck is **white with red and black accents**.\n\nAdditionally, there are other vehicles in the image:\n- To the right, there is a red truck (possibly a delivery or service vehicle",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "No, the man is not flying a kite. He is kitesurfing—riding a surfboard while attached to a large kite that is being controlled by the kiteboarder. The kite in the image is the one being flown by the kitesurfer to generate lift and pull him across the water.\n\nSo, to clarify: The person is flying a **kite** (as part of a kitesurfing setup), but it's not a typical hand-held kite; it’s a large, powered kite used for the sport. The kite itself is flying high in the sky, and the person is on the water,",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The image depicts an overcast day with a cloudy sky, and there is no visible moon. The lighting and cloud cover are consistent with daylight, and no lunar body is apparent in the sky.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on the image provided:\n\n- There is **one person** visible in the water, standing near the shoreline.\n- The large red and black kite is not a person.\n- The person in the water is the only human figure.\n\nTherefore, there is **one person** in this picture.",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No\n\nNo, it’s not the letter D in the air.\n\nWhat you’re seeing is a **kite**—likely a **kitesurfing or kiteboarding kite**—flying high in the sky. It’s shaped like a curved, crescent or C-shape (often called a \"C-kite\" or \"C-kite\"), which is a common design for this kind of water sport. The kite is red and black, and it’s flying over the ocean.\n\nThere is no letter D in the air — it’s just a kite.\n\n---\n\n✅ **Answer: No, it’s not the letter D",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

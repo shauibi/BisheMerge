@@ -1,0 +1,33 @@
+=== Benchmark Report ===
+Device: OPPO PHY110 (Android 36)
+Config: NoEagle
+Eagle: false
+Model Path: /data/user/0/com.llmapp/files/models/eagle-hqq
+
+--- Load Time (ms) ---
+Runs: 5873, 6082, 5681
+Average: 5878 ms
+
+--- Memory ---
+Baseline PSS: 3748515 KB
+Loaded PSS: 4185882 KB
+Delta: 437367 KB
+
+--- Inference ---
+Prompt,TNFT (ms),Output Tokens,Prefill (ms),Decode (ms),Tokens/s
+10t,452,168,446,10310,16.29
+10t,409,168,407,10821,15.53
+10t,428,168,426,11183,15.02
+50t,1320,511,1308,46379,11.02
+50t,1513,511,1504,49106,10.41
+50t,1502,511,1495,56143,9.10
+200t,10750,511,10734,71378,7.16
+200t,10098,511,10080,74841,6.83
+200t,10134,511,10124,87153,5.86
+500t,23074,511,23041,95392,5.36
+500t,23514,511,23478,93257,5.48
+500t,22587,511,22553,93748,5.45
+
+--- RAG Latency (ms) ---
+Chunks,Embedding,Search,Total
+0,432,296,728

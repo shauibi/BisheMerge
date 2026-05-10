@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there are multiple people in the image. The most prominent person is a man in a light blue shirt leaning over a table, appearing to interact with a dessert or food item. Other people are partially visible in the background — one person to the left is wearing a white shirt and holding a phone, and another person to the right is wearing a black shirt. There’s also someone standing behind the table near a chair. So, yes, there are definitely people in the image.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No, there is no cat in the image. The scene shows people in what appears to be an office or meeting room, with one person leaning over a table that has food and drinks on it. No animals, including cats, are visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. Specifically, a plastic bottle with a green label and a white cap, likely containing a beverage, is visible on the right side of the white table. The bottle appears to be a soda or drink bottle, possibly a type of iced tea or similar beverage, given its green label and the context of the table setting. It is placed next to a cup and near a dessert. The bottle is clearly identifiable as a beverage container.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table has a white cup, a plastic bottle, and a small chocolate cupcake, but no wine glass is visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. It is a white, oval-shaped table located in the center of the scene, with people gathered around it. On the table, there are various items including a chocolate cake, a plastic bottle of soda, a white mug, and some food wrappers or napkins. The table appears to be set up for a casual gathering or meeting.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No, there is no snowboard in the image. The scene shows people gathered around a table with food and drinks, and there are no snowboards or any equipment related to snowboarding visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. A young child is visible on the left side, leaning over the kitchen counter near the sink. The child has dark hair and is wearing a light-colored shirt with dark polka dots.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No, there is no clock visible in the image. The focus is on a child at a kitchen sink, with various utensils and dishes around, but no clock can be seen on any wall, countertop, or appliance.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image.\n\nSpecifically, there is a metal bowl sitting inside the stainless steel sink. It contains green grapes. The bowl is positioned in the sink, near the drain area, and is being held or used by the child leaning over the counter.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The picture shows a child in a kitchen, leaning on a counter next to a sink with a bowl of green grapes, and various kitchen items like utensils, a dish rack, and cleaning tools hanging on the wall. There are no animals, let alone an elephant, visible anywhere in the scene.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

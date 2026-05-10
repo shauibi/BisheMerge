@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Someone might go to this place to shop, eat, or experience the vibrant nightlife and culture of a bustling urban district—likely in Asia, such as Hong Kong’s Sham Shui Po or a similar district. The crowded streets, bright neon signs, and dense commercial activity suggest it’s a popular destination for tourists and locals alike seeking entertainment, food, and shopping.\n\nCommon reasons include:\n- **Shopping**: The numerous storefronts and signs indicate a commercial hub with many shops, possibly selling fashion, electronics, or local goods.\n- **Dining**: The density of people and signs suggests many restaurants or food stalls nearby.\n- **Entertainment",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "A\n\nThe new company that has created competition for traditional taxi transportation is **Uber**.\n\nUber disrupted the taxi industry by offering a smartphone-based app that allows riders to request rides, track drivers in real time, and pay via the app. It introduced on-demand ride-hailing services, which made transportation more convenient, flexible, and often cheaper than traditional taxis. Uber’s model also enabled drivers to work independently as contractors, which created a new labor market and changed how rides are sourced and managed.\n\nOther competitors include **Lyft** (also a ride-hailing service), **Didi Chuxing** (in China), and **Grab",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "The mouse is synonymous with a rodent in this image. The computer mouse is a small, handheld device used to control the cursor on a computer screen, and its shape and size are often compared to those of a small rodent. In many cultures, the term \"mouse\" is used to describe a small, furry animal, and the computer mouse is often referred to as a \"mouse\" because of its similar shape.",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image provided, the item on top of the stove is a **white microwave oven**.\n\nA microwave oven is primarily designed for heating and cooking food, not for brewing beverages like coffee or tea.\n\nHowever, one *could* make a beverage using the microwave if you had the appropriate ingredients and a method that involves heating. For example:\n\n- **Hot chocolate**: You could heat milk and cocoa powder or chocolate in the microwave.\n- **Hot tea**: You could heat water and tea bags or loose tea leaves in the microwave.\n- **Warm water or broth**: For making herbal infusions or simply heating water.\n\n**But the",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background are tall, slender palm trees. Their characteristic long, straight trunks and fronds are visible against the sky and the ocean.\n\nThese palm trees are consistent with the tropical or subtropical coastal environment, which is typical of places like Hawaii (as the distant mountain in the background is likely Diamond Head). The palm trees are a defining feature of the landscape in the image.",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This image is a famous and surreal photograph taken from the **International Space Station (ISS)**.\n\n### Key Details:\n- **Location:** The photograph was taken from the **ISS**, orbiting Earth at approximately 400 km (250 miles) above the surface.\n- **Context:** The photo shows two astronauts — one wearing a **British flag patch (Union Jack)** — and a **teddy bear** (likely a mascot or prop) floating in microgravity, with Earth curving beneath them. The bear is wearing a space suit and a patch reading “MAT,” likely referencing **Matthias Maurer**, a",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?\n\nThe image is a LEGO recreation of the **“The Matrix”** computer terminal, famously from the 1999 film *The Matrix*. However, since you're asking about a **famous children's novel**, this is likely a trick or misdirection — because *The Matrix* is a film, not a children’s novel.\n\nBut if you’re thinking of a children’s novel that features a similar “computer” or “terminal” scene — perhaps you’re thinking of **“The Giver”**? No — that’s not it either.\n\nActually, the **",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "You're looking for a teddy bear with a very specific aesthetic: fluffy, textured, possibly slightly worn or vintage-looking, with a soft, almost “furry” appearance — like a plush toy with a tactile, tactile feel.\n\nHere’s where you can find similar bears:\n\n---\n\n### 🐻 1. **Online Retailers (Best for Unique & Vintage Looks)**\n- **Etsy** – Search for “fluffy teddy bear,” “vintage stuffed bear,” “fuzzy teddy,” “handmade plush bear.” You’ll find artisans and small-batch makers who create bears like this — often with unique",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This is a desktop computer setup.\n\nHere’s why:\n- There are multiple separate monitors (at least three visible), which is common for desktop setups.\n- There’s a central monitor with a keyboard and mouse directly in front of it — the typical desktop configuration.\n- The laptop on the left is clearly separate from the main setup and is not the primary workstation.\n- The presence of external peripherals (speakers, headphones, multiple monitors) suggests a desktop configuration, not a laptop.\n\nSo, this is a desktop computer setup.",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "The car on the far right is red. It appears to be a food truck with a red body, and there is a white logo or text on the side that says \"SALSA\" and \"MEXICAN\" (partially visible). The truck also has a white stripe along its side.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes, there is an ice cream truck in the image.\n\nIn the center of the scene, there is a white food truck with red and black accents, featuring a large, stylized heart design on its side. The truck has a logo that looks like a red and white ice cream cone, and it’s parked near the famous Arch of Triumph (or Arc de Triomphe, though this one is the Washington Square Arch in New York). The presence of the heart and the cone logo, along with the context of a busy street with pedestrians, strongly suggests it's an ice cream or dessert truck.\n\nThe truck is clearly designed for street",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime. The image shows bright sunlight, clear blue skies with scattered white clouds, and strong shadows cast by people and objects, all of which are characteristic of daytime, specifically midday or afternoon.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No, there is no dog in the image. The scene shows a busy public square with people walking, food trucks, and the iconic Arch of Triumph in the background. There are no animals visible, let alone a dog.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the image, the shoe company advertised is **Nike**.\n\nThe red truck on the right side of the image has a prominent logo on its side: the iconic Nike swoosh, along with the text \"NIKE\" and \"SNEAKERS\". This is a clear advertisement for Nike, a major global shoe and apparel company. The truck is likely part of a promotional event or festival, given the context of the busy street and the Arc de Triomphe in the background.\n\nTherefore, the shoe company advertised in the image is **Nike**.",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "The truck in the center of the image is primarily white with red and black accents, including a red stripe and black details on the side.",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "No.\n\nThe man in the image is not flying a kite. He is on a beach, standing in the shallow water near the shore, and appears to be engaged in kiteboarding or windsurfing — activities that involve using a board and a large kite to glide over the water.\n\nThe large red and black object in the sky is the kite being used for the activity — it’s not a traditional hand-held kite but a large, powered kite used for kiteboarding or kitesurfing.\n\nSo, the man is operating a kite, but not flying it in the traditional sense — he is using it to propel himself across the water on",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The sky is overcast with clouds, and there is no clear view of the moon or any other celestial body. The lighting suggests daytime, likely with diffuse sunlight filtered through cloud cover.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on the image provided, there is **one person** visible in the picture.\n\nThe person is standing on the beach, near the water's edge, on the left side of the image. They appear to be engaged in a water sport, possibly kitesurfing or windsurfing, as there is a large red and black kite flying in the sky to the right.\n\nThere are no other people clearly visible in the image.\n\n✅ **Answer: 1 person**",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No, that’s not the letter D in the air.\n\nWhat you’re seeing is a **kite**—specifically, a **kiteboard kite** or **kitesurfing kite**—used for the sport of kitesurfing. It’s shaped like a crescent or a “C” and is flying high in the sky over the ocean.\n\nThe shape of the kite is not a letter D. It’s a functional, aerodynamic design for generating lift and pulling the rider across the water.\n\nSo, no — it’s not the letter D. It’s a kite.\n\n(And yes, the person in",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

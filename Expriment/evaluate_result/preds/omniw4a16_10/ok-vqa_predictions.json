@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Someone might go to this place because it’s a vibrant, bustling **shopping district** or **entertainment hub** in a major city, likely in Asia (given the Chinese characters and the style of signage).\n\nHere’s why someone might be there:\n\n1. **Shopping & Dining**: The street is lined with bright, colorful signs for stores, restaurants, and shops (like \"THE BODY SHOP\" and \"SUNSHINE\"). People are likely there to shop, eat, or enjoy local cuisine.\n\n2. **Cultural Experience**: The dense, neon-lit, high-energy environment suggests it’s a popular tourist destination or a local",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "Your answer is not complete. Please provide more details.\n\n---\n\n**New Company Creating Competition:**\n\nThe new company creating competition for traditional taxi transportation in this image is **Uber** (or more broadly, **ride-sharing platforms** like Uber, Lyft, or similar services).\n\n---\n\n**Why This is Competition:**\n\n- The image shows a **yellow taxi**, which is a traditional form of urban transportation. In many cities, especially New York City (as the background suggests), taxis have been increasingly competing with ride-hailing apps.\n- **Uber** (and its competitors like Lyft) offer:\n  - On-demand, smartphone-based rides.",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "In",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image, there is a white microwave oven sitting on the countertop to the left of the stove. This microwave is typically used for heating food or reheating drinks.\n\nGiven the context of a kitchen, the microwave is most likely used to reheat beverages. Therefore, one could make or reheat a beverage such as:\n\n- **Hot chocolate**\n- **Coffee**\n- **Tea**\n- **Herbal tea**\n- **Hot water**\n- **Milk**\n- **Smoothies** (if the microwave has a suitable container)\n\nSince there is no visible beverage maker or specific drink brewing equipment in the image, the",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background are palm trees. \n\nYou can identify them by their tall, slender trunks and the large, leafy fronds (or \"fingers\") at the top. These are characteristic features of palm trees, which are commonly found in tropical and subtropical coastal areas like the one depicted in the image, which appears to be a beach setting. The presence of palm trees, along with the ocean and the distant island (which looks like a popular tourist destination), further supports this observation.",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?\n\nThe image you’ve shared is a LEGO recreation of the famous **“The LEGO Movie”** (2014) — specifically, it depicts the iconic **“The LEGO Movie”** scene with the **“The LEGO Movie”** character **“Lord Business”** (the villain) and the **“The LEGO Movie”** character **“Unikitty”** (the cat) in the background, but more likely, it’s a fan-made or official LEGO set inspired by the movie.\n\nHowever, the most famous and widely recognized LEGO set from *The LEGO",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "You can buy a similar bear at:\n\n1. **Amazon** – Search for “fuzzy stuffed bear” or “teddy bear with fur” and filter by “new arrivals” or “best sellers” to find high-quality, plush bears.\n2. **Etsy** – Look for “handmade plush bear” or “cute stuffed bear” to find unique, artisanal options.\n3. **Target or Walmart** – They carry plush and stuffed animals in their “Kids & Baby” or “Home & Garden” sections.\n4. **Department Stores** – Stores like Target, Walmart, or even specialty stores (like",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

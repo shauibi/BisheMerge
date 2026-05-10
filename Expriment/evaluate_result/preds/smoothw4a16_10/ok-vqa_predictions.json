@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Based on the image, this appears to be a bustling, densely packed shopping district—likely in a major city such as Hong Kong (given the signage and architecture). People are walking, shopping, and navigating the crowded streets under bright, colorful neon signs.\n\n### Why might someone go to this place?\n\n**1. Shopping & Retail**\n- The area is filled with shops, many of which have bright, eye-catching signage. People are seen browsing and carrying shopping bags, suggesting it’s a major shopping destination.\n- The presence of “THE BODY SHOP” and other retail stores indicates it’s a place for both everyday and specialty purchases.\n\n**",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "The yellow taxi, a traditional form of urban cab service, has faced growing competition from **ride-sharing apps** such as **Uber** and **Lyft**. These apps have disrupted the traditional taxi industry by offering on-demand rides through smartphone apps, often with lower fares, real-time tracking, and more flexible scheduling.\n\n**Key reasons for the competition:**\n\n1. **Uber and Lyft**  \n   - These apps connect riders with drivers via a platform, often bypassing the need for a formal taxi license.\n   - They’ve introduced features like “dynamic pricing,” “surge pricing,” and “driver ratings,” which have made them",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "The mouse in the image is synonymous with a rodent. It’s a computer mouse, and the term \"mouse\" is commonly used to refer to this device, even though it is not actually a rodent. In this context, \"mouse\" refers to the computer peripheral, not the animal.\n\nSo, the object synonymous with a rodent in this image is the **computer mouse**.",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image, the item on top of the stove is a **white microwave oven**. \n\nYou can make a **hot beverage** with a microwave, such as:\n\n- **Coffee** (by heating coffee grounds and water, or using a pre-made coffee pod)\n- **Tea** (by steeping tea leaves or bags in water, then heating)\n- **Hot chocolate**\n- **Infused water** (with herbs or fruit)\n- **Smoothies** (by heating milk or cream)\n- **Soup or broth** (by heating ingredients in a pot, then transferring to microwave)\n\nHowever, the most common",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background appear to be **palm trees**.\n\nHere's why:\n\n- **Appearance**: The trees have tall, slender trunks and fronds (leafy tops) that are characteristic of palm trees.\n- **Environment**: The setting is a beach or coastal area, which is a typical location for palm trees.\n- **Background Context**: The presence of a beach, ocean, and a distant island (likely a volcanic or mountainous island, such as one might see in Hawaii) further supports this being a tropical or subtropical location where palm trees are common.\n\nThe palm trees are likely **",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This picture is taken from space, specifically from the **International Space Station (ISS)**.\n\nThe image shows two astronauts (likely in spacesuits) floating above Earth, with the curvature of the planet and the blue-white gradient of the atmosphere visible in the background. The presence of the Earth’s horizon and the apparent weightlessness strongly suggest a high-altitude orbital environment — characteristic of the ISS, which orbits approximately 400 kilometers (250 miles) above Earth.\n\nAdditionally, the presence of a teddy bear in one of the suits (possibly a mascot or personal item) and the visible flag patches (e.g., the Union",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "You might find a similar stuffed bear at:\n\n**1. Online Retailers**  \n- **Amazon** – Search for “fluffy stuffed bear,” “teddy bear,” or “fur teddy” – many come in white or cream and have a plush, cuddly feel.  \n- **Etsy** – Great for unique, handmade, or vintage-style bears. Search “handmade bear,” “fluffy bear,” or “white teddy bear.”  \n- **Target / Walmart / IKEA** – Often carry plush bears in various sizes and styles.  \n- **Specialty Stores** – Look for stores like *Bear",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This is a desktop setup. \n\nHere’s why:\n- There are **multiple monitors** (at least 3 visible) arranged on the desk — this is common for desktop setups.\n- A **central computer tower** (the main unit) is implied by the presence of the monitors, keyboard, and mouse.\n- A **keyboard and mouse** are placed in front of the main monitor, which is typical for desktops.\n- There is **no visible laptop** — the screen on the left is likely a separate monitor, not the laptop itself.\n\nSo, this is clearly a **desktop computer setup**, not a laptop.",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

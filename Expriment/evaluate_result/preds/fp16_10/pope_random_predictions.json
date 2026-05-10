@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there are people in the image. Specifically, there are at least three individuals visible:\n\n1. A man in the foreground, wearing a light blue shirt and green pants, leaning over a table and appears to be decorating or cutting a small chocolate cake.\n2. A person on the far left, partially visible, wearing a white shirt and dark pants, holding a phone.\n3. A person on the far right, wearing a dark shirt, holding what looks like a piece of food (possibly a snack or another dessert).\n\nSo, yes, there are people in the image.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No, there is no cat in the image. The image shows people in what appears to be an office or meeting room setting, with a table that has food items, drinks, and some personal belongings. There are no animals visible, including cats.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. Specifically, a large plastic bottle of what appears to be iced tea or a similar beverage is visible on the right side of the table. The bottle has a green label and is partially filled with a brown liquid. Additionally, a small black bottle, possibly a condiment or sauce, is also present on the table near the center.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table contains various items like a cake, mugs, a bottle of soda, and a plastic container, but no wine glass is visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. It is a white, rectangular table where a person is seated and appears to be cutting a piece of chocolate cake. The table also has other items on it, including a bottle of tea, a mug, and some plastic wrap with food items. The setting looks like a casual gathering or office party.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No, there is no snowboard in the image. The scene depicts a group of people gathered around a table with food, drinks, and a cake, suggesting a casual or celebratory gathering. No snowboarding equipment, such as a snowboard, is visible in the image.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. The person is a young child, likely a toddler, standing at the kitchen sink. The child has dark hair and is wearing a white shirt with a pattern of small dark dots. The child is leaning over the sink, looking directly at the camera with wide eyes, and appears to be holding a bowl filled with green grapes. The child's expression is curious or surprised, and they seem to be in the middle of doing something at the sink, possibly washing the grapes or helping with cleaning up.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No, there is no clock visible in the image. The focus is on a child at a kitchen sink, with various utensils, dishes, and cleaning supplies around.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image. Specifically, there is a stainless steel bowl inside the kitchen sink, containing green grapes. It is positioned in the center of the sink basin, and a child’s hand is reaching into it. Additionally, there are other bowls visible on the drying rack to the right of the sink, including a white bowl and a black mug (which can also be considered a type of bowl).\n\nTherefore, the answer is: **Yes**.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The picture shows a child at a kitchen sink, with various utensils, dishes, and cleaning tools around them. The setting is clearly a domestic kitchen environment.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

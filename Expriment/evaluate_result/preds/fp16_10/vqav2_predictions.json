@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "Based on the provided image, the vehicle on the far right is a red food truck. It has some white text or logos on its side, but the dominant color of the truck is red.\n\nTherefore, the color of the car (food truck) on the far right is **red**.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes, there is an ice cream truck in the image.\n\nYou can see a white and red food truck with the words “ICE CREAM” on its side parked in the middle of the scene, directly in front of the Washington Square Arch. It appears to be serving food, likely ice cream, given its branding and context. There are also other food trucks visible in the background, including a red one on the right side of the image.\n\nSo, yes, an ice cream truck is present in the photograph.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime.\n\nThe image shows bright, natural sunlight illuminating the scene. The sky is clear blue with scattered white clouds, and shadows are visible on the ground, which is characteristic of daytime. Additionally, people are out and about, and vehicles are in motion, all typical of a daytime setting.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the image provided, there is no clear advertisement for a shoe company visible in the scene.\n\nThe image shows:\n- The Washington Square Arch in New York City\n- A food truck with a red and white design, which appears to be a \"Burger Truck\" (as indicated by the logo)\n- A crowd of people, some with strollers\n- Other food trucks and street vendors\n- A clear blue sky with some clouds\n\nThe most prominent branding visible is on the food truck, which features a logo that says \"Burger Truck\" and has a red and white design, but this is a food service brand,",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "The truck in the image is primarily white with red and black accents. The front of the truck features a red and white design, and there are black elements, such as the wheels and some trim, as well as red lettering on the side.\n\nThere are also other food trucks visible in the background, including one with a red and white color scheme and another that is mostly red. The main truck in the foreground is the most prominent, with its white body and red and black detailing.",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "Yes, the man is flying a kite.\n\nIn the image, we can see:\n- A person standing in the shallow water near the shore, holding what appears to be a control bar or line.\n- A large, red and white kite soaring in the sky above him. The kite has a distinct curved shape, typical of a kite used for kiteboarding or kitesurfing.\n- The person is positioned in the water, which is choppy and appears to be moving with the wind, consistent with the activity of kiteboarding.\n\nThis setup is characteristic of kiteboarding (or kitesurfing), where a person rides on a board",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The sky is overcast with a uniform layer of gray clouds, which obscures any celestial objects like the moon or stars. The lighting suggests daytime, likely under cloudy conditions, and no moon can be seen in the image.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on a careful examination of the image, there is **one person** visible in the picture.\n\nThe person is standing in the shallow, wavy water near the shore, holding onto a kite control bar. They are silhouetted against the water and sky, and no other individuals are clearly visible in the scene.\n\nTherefore, the answer is: **1**",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No, there is no letter “D” in the air. The image shows a person on a beach flying a large, red and black kite — not a letter.\n\nThe kite is shaped like a curved, crescent or “C” shape, which is common for kitesurfing or wind sports, and it’s not forming any letters. The sky is overcast, and there are no visible letters or symbols in the air.\n\nSo, the answer is: **No, there is no letter D in the air.**",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

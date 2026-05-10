@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LLM 应用</string>
+    <string name="tab_chat">对话</string>
+    <string name="tab_templates">模板</string>
+    <string name="tab_settings">设置</string>
+    <string name="chat_title">LLM 对话</string>
+    <string name="hint_message">输入消息...</string>
+    <string name="send">发送</string>
+    <string name="new_chat">新建对话</string>
+    <string name="delete">删除</string>
+    <string name="delete_message">删除消息</string>
+    <string name="add_model_dir">添加模型目录</string>
+    <string name="adding_model_directory">正在添加模型目录…</string>
+    <string name="no_model_selected">未选择模型</string>
+    <string name="model_path_label">当前模型</string>
+    <string name="model_variant">可用模型</string>
+    <string name="template_title">提示词模板</string>
+    <string name="template_builtin">内置</string>
+    <string name="template_custom">自定义</string>
+    <string name="template_add_custom">添加模板</string>
+    <string name="template_name_hint">模板名称</string>
+    <string name="template_text_hint">提示词文本</string>
+    <string name="template_delete_confirm">确定删除此模板？</string>
+    <string name="no_messages">暂无消息，开始对话吧！</string>
+    <string name="no_sessions">暂无会话</string>
+    <string name="confirm_delete_session">确定删除此会话及其所有消息？</string>
+    <string name="confirm_delete_message">确定删除此消息？</string>
+    <string name="yes">是</string>
+    <string name="cancel">取消</string>
+    <string name="error_model_not_loaded">模型未加载。请在设置中配置模型路径。</string>
+    <string name="error_camera_permission">需要相机权限才能拍照。</string>
+    <string name="error_storage_permission">需要存储权限才能选择图片。</string>
+
+    <!-- Settings Fragment -->
+    <string name="invalid_path">路径无效或无法访问</string>
+    <string name="native_lib_version">本地库版本：%s</string>
+    <string name="native_lib_version_na">本地库版本：不可用</string>
+    <string name="model_path_display">模型路径：%s</string>
+    <string name="no_path_selected">未选择路径</string>
+    <string name="status_loaded"> [已加载]</string>
+    <string name="status_not_loaded"> [未加载]</string>
+    <string name="model_loaded_toast">模型已加载：%s</string>
+    <string name="loading_model">正在加载模型…</string>
+
+    <!-- Chat Fragment -->
+    <string name="failed_to_load_image">加载图片失败</string>
+    <string name="menu">菜单</string>
+    <string name="selected_image">已选图片</string>
+    <string name="remove_image">移除图片</string>
+    <string name="pick_image">选择图片</string>
+    <string name="take_photo">拍照</string>
+    <string name="user_image">用户图片</string>
+
+    <!-- Session Drawer -->
+    <string name="chat_sessions">对话列表</string>
+    <string name="delete_session">删除会话</string>
+
+    <!-- Voice input -->
+    <string name="voice_input">语音输入</string>
+    <string name="voice_listening">正在聆听…</string>
+    <string name="voice_initializing">正在加载语音模型…</string>
+    <string name="voice_error_init">语音模型加载失败</string>
+    <string name="voice_error_permission">需要麦克风权限</string>
+
+    <!-- Knowledge Base -->
+    <string name="tab_knowledge">知识库</string>
+    <string name="knowledge_title">知识库</string>
+    <string name="import_document">导入文档</string>
+    <string name="no_documents">暂无文档</string>
+    <string name="document_type_txt">文本</string>
+    <string name="document_type_md">Markdown</string>
+    <string name="document_type_pdf">PDF</string>
+    <string name="document_type_docx">Word</string>
+    <string name="embedding_model">Embedding 模型</string>
+    <string name="embedding_model_not_loaded">Embedding 模型未加载</string>
+    <string name="load_embedding_model">加载 Embedding 模型</string>
+    <string name="select_embedding_model_dir">选择 embedding 模型目录</string>
+    <string name="rag_enabled">RAG</string>
+    <string name="rag_chunks_retrieved">检索到 %d 个片段</string>
+    <string name="document_importing">正在导入: %s</string>
+    <string name="document_import_failed">文档导入失败</string>
+    <string name="delete_document">删除文档</string>
+    <string name="confirm_delete_document">确定删除此文档及其所有片段？</string>
+    <string name="document_ready">就绪</string>
+    <string name="document_importing_status">导入中…</string>
+
+    <!-- Errors -->
+    <string name="error_failed_to_reload_model">重新加载模型失败：%s</string>
+    <string name="error_failed_to_load_model">加载模型失败：%s</string>
+    <string name="error_prefix">错误：%s</string>
+
+</resources>

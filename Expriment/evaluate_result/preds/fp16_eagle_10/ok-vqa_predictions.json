@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Someone might go to this place — likely a bustling shopping district in a major Asian metropolis like Hong Kong or Taipei — for a variety of reasons:\n\n1. **Shopping & Entertainment**: The dense signage, bright lights, and crowded sidewalks suggest a vibrant commercial area with shops, boutiques, street food vendors, and entertainment venues like cinemas or arcades.\n\n2. **Cultural Experience**: The area is likely filled with local cuisine, traditional markets, and cultural landmarks, making it a destination for experiencing local life and flavors.\n\n3. **Socializing & Nightlife**: The crowd and lively atmosphere suggest it’s a popular spot for people to",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "The rise of ride-hailing apps like **Uber** and **Lyft** has created significant competition for traditional taxi services.\n\nThese apps have disrupted the taxi industry by:\n\n- **Offering on-demand rides** via smartphone apps.\n- **Providing dynamic pricing** (surge pricing).\n- **Allowing drivers to be independent contractors**, often with more flexible schedules.\n- **Using technology for real-time tracking and routing**.\n- **Offering better customer interfaces and user experiences**.\n\nAs a result, many traditional taxi companies have had to adapt — some have merged, others have partnered with ride-hailing platforms, and some have been",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "In the image, the object synonymous with a rodent is the **computer mouse**.\n\n### Reasoning:\n- The **computer mouse** is often colloquially referred to as a “mouse” — a term that is commonly used in everyday language, even though it is a piece of computer hardware and not an actual rodent.\n- In common parlance, especially in tech or casual conversation, “mouse” can refer to the device, which is sometimes humorously or informally associated with rodents due to its name — a nod to its shape or its “mousing” behavior (though not literally).\n- While no actual rodent",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image provided, the item on top of the stove is a **white microwave oven**.\n\n### What kind of beverage could one make with a microwave?\n\nWhile a microwave is primarily used for heating and reheating food, it can also be used to prepare certain beverages, especially when combined with other kitchen items. Here are a few possibilities:\n\n---\n\n### 1. **Hot Tea or Coffee**\n- **How**: Pour hot water (or use a microwave-safe mug) into a cup, add tea bags or coffee grounds, and heat for a short time.\n- **Note**: Many people use a microwave to heat water for steep",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background are **palm trees**.\n\nHere’s why:\n\n- **Shape and structure**: They have tall, slender trunks with a crown of large, feather-like or fan-shaped fronds at the top — a classic characteristic of palm trees.\n- **Location**: The setting appears to be a tropical or subtropical beach (with a mountain in the distance, likely a volcanic peak like Diamond Head in Hawaii, which is famous for its palm trees).\n- **Context**: Palm trees are common in coastal, tropical, and beachside environments around the world.\n\nTherefore, the trees in the background are",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This picture is taken from the **International Space Station (ISS)**.\n\nThe image shows astronauts or spacewalkers in spacesuits floating above Earth, with the curvature of the planet and the blue-white gradient of the atmosphere clearly visible. The presence of the Earth’s horizon and the apparent zero-gravity environment strongly indicate a view from orbit — specifically, the ISS, which orbits approximately 400 km (250 miles) above Earth.\n\nAdditionally, the presence of small national flags (like the UK flag) on the suits suggests these are astronauts from different countries, which is consistent with the ISS being a multinational space station.\n\nSo,",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?\n\nThe image you’ve shared — featuring a keyboard surrounded by Lego minifigures and a checkered Lego baseplate — is a well-known fan-made or meme image often associated with the children’s novel **“The Phantom of the Opera”**… wait — no, that’s not right.\n\nActually, the most famous and widely recognized association for this image — particularly the keyboard with minifigures and the checkered Lego base — is from the novel **“The Magic School Bus”**… no, still not quite.\n\nLet’s be precise.\n\n✅ **This image is from",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "That's a great question — you’re looking for a **teddy bear with a very fluffy, textured, and slightly “matted” appearance**, sitting upright, with a stylized face, and a soft, almost vintage or artisanal vibe.\n\nHere are some places and types of stores where you might find a bear similar to the one in your photo:\n\n---\n\n### 🧸 1. **Artisan & Handmade Toy Stores**\nLook for **handmade or “artisan” stuffed animals** — these often have unique textures and designs.\n\n- **Etsy.com** — Search for “fluffy teddy bear,” “hand",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

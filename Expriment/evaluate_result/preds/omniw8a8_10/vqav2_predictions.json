@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "Based on the image provided, the vehicle on the far right is a food truck or vendor cart.\n\nThe color of this vehicle is **red**. It has a bright red body, and you can also see some white text or logos on it, possibly including the word \"SALSA\" or \"SALSA\" and the word \"CHICKEN\". There is also a white stripe or design element on the side of the red truck.\n\nSo, the car (or food truck) on the far right is red.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes, there is an ice cream truck in the image.\n\nIt’s the white food truck with red and white graphics parked on the right side of the street, near the center of the frame. The truck has a large, stylized design that includes a heart shape and the words “ICE CREAM” on the side, which are typical features of an ice cream truck.\n\nThere is also a red truck partially visible on the far right, but it’s likely another vendor or food truck, not specifically an ice cream truck. The main one in focus is clearly an ice cream truck.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime.\n\nThe image shows:\n- Bright, clear sunlight illuminating the scene.\n- A blue sky with scattered white clouds.\n- Strong shadows cast by people, vehicles, and the arch.\n- People are outdoors, dressed in light clothing appropriate for warm weather.\n\nAll these elements are characteristic of a sunny daytime scene.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No, there is no dog in this image. The scene depicts a busy public square with people, food trucks, and the Arc de Triomphe in the background. There are no animals visible in the photograph.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the image provided, there is no clear advertisement for a shoe company visible in the scene.\n\nThe image depicts a busy public square with the **Arc de Triomphe** in the background (in Paris, France), and several food trucks and pedestrians. While there are some logos on the food trucks (like one with “Burger King” visible on a red truck in the bottom right corner), none of them advertise a shoe company.\n\nTherefore, **no shoe company is advertised** in this image.",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "The truck in the center of the image is **white** with **red** and **black** accents. It has a distinctive design with red and black graphics on its side, including a stylized \"S\" or wave-like pattern. The front of the truck also features red and black detailing, and the overall appearance is quite eye-catching.\n\nSo, the primary color is **white**, with **red and black** accents.",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "No, the man is not flying a kite. He is engaged in **kitesurfing**, a water sport that involves riding on a board while being pulled by a large kite. The kite in the image is the one being used for the sport — not a traditional hand-held kite. The person is likely standing in the water, holding onto the control bar, and the kite is flying high above them to harness the wind.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The sky is overcast with clouds, and there is no discernible lunar presence in the image.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on the image provided, there is **one person** visible in the picture.\n\nThis individual is standing on the shoreline, near the water’s edge, and appears to be engaged in kiteboarding or windsurfing, as suggested by the large red and black kite flying overhead. The person is small in the frame, which emphasizes the vastness of the ocean and sky.\n\nThere are no other people visible in the image.",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No. It's a red and black kite flying in the sky, not the letter D.",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

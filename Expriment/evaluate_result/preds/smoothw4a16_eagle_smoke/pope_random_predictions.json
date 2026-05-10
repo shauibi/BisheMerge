@@ -1,0 +1,8 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  }
+]

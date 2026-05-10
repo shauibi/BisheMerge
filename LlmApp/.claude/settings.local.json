@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew assembleDebug)",
+      "Bash(./gradlew lintDebug)",
+      "Bash([ -f \"$FILE\" ])",
+      "Bash(nm -D /c/Users/wanwanwan/workspace/LLMApp/app/src/main/jniLibs/arm64-v8a/libMNN.so)",
+      "Bash(powershell -Command \"Select-String -Path 'C:\\\\Users\\\\wanwanwan\\\\workspace\\\\LLMApp\\\\app\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libMNN.so' -Pattern 'createLLM' -Encoding Byte 2>&1 | Select-Object -First 3\")",
+      "Bash(pip list *)",
+      "Bash(pip install *)",
+      "Bash(HF_ENDPOINT=https://hf-mirror.com python *)",
+      "Bash(python -c ' *)",
+      "Bash(adb devices *)",
+      "Bash(adb shell *)",
+      "Bash(adb push *)",
+      "Bash(MSYS_NO_PATHCONV=1 adb shell *)",
+      "Bash(MSYS_NO_PATHCONV=1 adb logcat -c)",
+      "Bash(MSYS_NO_PATHCONV=1 adb logcat -d)",
+      "Bash(MSYS_NO_PATHCONV=1 adb logcat -d -t 500)",
+      "Bash(MSYS_NO_PATHCONV=1 adb logcat -b all -d)",
+      "Bash(MSYS_NO_PATHCONV=1 adb logcat -d -b main -b crash)",
+      "Bash(MSYS_NO_PATHCONV=1 adb install -r app/build/outputs/apk/debug/app-debug.apk)",
+      "Bash(python)",
+      "Bash(MSYS_NO_PATHCONV=1 MNNConvert -f ONNX --modelFile bge_small_zh_fixed.onnx --MNNModel bge_small_zh_fixed.mnn --bizCode MNN)",
+      "Bash(MSYS_NO_PATHCONV=1 adb push bge_small_zh_fixed.mnn /sdcard/models/bge_small_zh_mnn/bge_small_zh.mnn)",
+      "Bash(adb install *)",
+      "Bash(adb logcat *)",
+      "Bash(aarch64-linux-gnu-nm --defined-only \"C:/Users/wanwanwan/workspace/LLMApp/app/build/intermediates/cxx/Debug/t6c5y2m4/obj/arm64-v8a/libllm_infer.so\")",
+      "Bash(\"C:/Users/wanwanwan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-nm.exe\" --defined-only \"C:/Users/wanwanwan/workspace/LLMApp/app/build/intermediates/cxx/Debug/t6c5y2m4/obj/arm64-v8a/libllm_infer.so\")",
+      "Read(//tmp/**)",
+      "Read(//c/Users/wanwanwan/.cache/huggingface/**)",
+      "Read(//c/Users/wanwanwan/workspace/**)",
+      "Bash(where MNNConvert)",
+      "Bash(python -c \"from MNN.tools.mnnconvert import convert; print\\('ok'\\)\")"
+    ]
+  }
+}

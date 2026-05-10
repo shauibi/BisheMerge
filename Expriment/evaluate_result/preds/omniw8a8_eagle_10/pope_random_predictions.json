@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there are multiple people in the image. The most prominent person is in the foreground, wearing a light blue shirt and bending over a table, seemingly examining or reaching for a chocolate cake. In the background, there are at least two other individuals: one in a white shirt holding a phone, and another in a black shirt standing near a door.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No, there is no cat in the image. The scene depicts people in a room, likely a break room or office setting, with a table that has a dessert (a chocolate cake), a bottle of soda, and some other items. There are no animals, including cats, visible in the picture.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. Specifically, there is a clear plastic bottle with a green label and a green cap, filled with a brown liquid, sitting on the white table. It appears to be a beverage bottle, likely containing soda or iced tea.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table has a white mug, a bottle of soda, and a small chocolate cake, but no wine glass is visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. It is a white, oval-shaped table positioned in the center of the scene, with several people gathered around it. On the table, you can see a chocolate cake, a bottle of soda, a white mug, and some other items like a small container and a piece of paper. The table appears to be in use for a casual gathering or meeting.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No snowboard is visible in the image. The scene appears to be an indoor setting with people gathered around a table, likely in a casual or office environment. There are food items like a small cake and drinks, but no snowboards or related equipment are present.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. A young child, likely a girl, is visible on the left side of the frame, leaning over the kitchen counter and looking toward the camera with a curious or surprised expression. She is wearing a light-colored, polka-dotted shirt and appears to be engaged in some activity at the sink.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No, there is no clock visible in the image. The focus is on the kitchen sink area, a child leaning over the counter, and various kitchen items like utensils, a bowl of green grapes, and a dish rack. No clocks, either analog or digital, are present.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image.\n\nSpecifically, there is a metal bowl sitting inside the stainless steel kitchen sink. It contains green grapes and appears to be being used by the child, who is leaning over the counter near it.\n\nAdditionally, there are other bowls visible in the image, such as:\n- A white bowl on the countertop to the left.\n- A red bowl in the dishwasher rack.\n- A white bowl with a black rim also in the dishwasher rack.\n- A small white bowl with a black rim in the upper left corner.\n\nSo, multiple bowls are visible in the image.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The image shows a young child at a kitchen sink, with a bowl of green grapes, dishware, and cleaning utensils hanging on the wall. There are no animals, let alone elephants, visible in the scene.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

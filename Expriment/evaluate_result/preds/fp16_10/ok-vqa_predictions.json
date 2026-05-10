@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Someone might go to this place—likely a bustling urban street in a major Asian city like Hong Kong or Taipei—for several reasons:\n\n1. **Shopping & Retail** – The street is lined with bright neon signs and storefronts (e.g., “THE BODY SHOP” visible), suggesting a shopping district. People may be browsing for goods, cosmetics, electronics, or souvenirs.\n\n2. **Dining & Food** – Busy streets like this often have street food stalls, restaurants, and cafes. People might be looking for quick meals or trying local cuisine.\n\n3. **Entertainment & Culture** – Neon signs, billboards,",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "The new company that has created competition for traditional taxi transportation is **Uber**.\n\nUber, which launched in 2009, revolutionized ride-sharing by using smartphone apps to connect riders with drivers, offering on-demand service, dynamic pricing, and a user-friendly interface. It disrupted the taxi industry by providing more flexibility, often lower prices, and greater convenience, especially in urban areas.\n\nOther competitors include **Lyft**, **Didi Chuxing** (in Asia), and **Grab** (in Southeast Asia and parts of the world), which have similarly transformed how people get around.\n\nSo, in the context of your image —",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "In",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This is a **legal** fire hydrant color — **yellow** (or pale yellow/lemon yellow) — in many jurisdictions.\n\n### Why?\n- In the **United States**, fire hydrants are often painted **yellow** or **bright red**, depending on the local code.\n- **Yellow** is a **common and legal color** for fire hydrants in many cities, especially in areas where red is reserved for specific types (e.g., fire service hydrants for certain water systems or where red is used for other purposes).\n- In some regions, yellow is used for hydrants that serve **non-fire** purposes (",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image, the item on top of the stove is a **white microwave oven**.\n\nYou could make the following beverages with a microwave oven:\n\n1.  **Hot beverages:** Coffee, tea, or hot chocolate.\n    *   You can heat up a cup of coffee or tea by pouring it into the microwave and heating it.\n    *   You can heat up milk and then add chocolate powder or cocoa for hot chocolate.\n\n2.  **Smoothies or blended drinks:** You can heat up milk, yogurt, or other liquids to make smoothies or blended drinks.\n\n3.  **Hot water for tea or coffee:**",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "The trees in the background are palm trees.\n\nYou can see their tall, slender trunks and the characteristic fronds at the top, which are typical of palm trees. They are commonly found in tropical or subtropical coastal areas, like the beach scene depicted in the image. The presence of palm trees and the distant island (which looks like Diamond Head on Oahu, Hawaii) strongly suggest this is a beach in a tropical location.",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This picture is taken from the **International Space Station (ISS)**.\n\n### Here’s why:\n- The image shows Earth’s curved horizon, the thin blue atmosphere, and clouds below — all characteristic views from space.\n- The two teddy bears are dressed as astronauts, with space suits and British flag patches, suggesting this is a staged or playful experiment — likely part of an educational or entertainment project from the ISS.\n- The presence of a “M.A.T.” label (possibly for “Manned Astronaut Training” or a personal identifier) and the “British flag” patch reinforces that this is likely a British space-related initiative, such",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children's novel?\n\nThe image is a LEGO recreation of the **\"Keyboard\"** from the famous children’s novel **“The Giver”** by Lois Lowry.\n\nHowever, this is a **misconception** — the “keyboard” in the image is **not** from *The Giver*.\n\nActually, the image is a **LEGO model of the “Keyboard” from the movie *The Lego Movie*** — specifically, the **“Lego Keyboard”** that appears in the film’s opening sequence and later in scenes where the characters are using it to communicate with the “",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "You can find a bear similar to this one at:\n\n1. **Online Retailers:**\n   - **Amazon** – Search for “fluffy stuffed bear” or “soft plush polar bear” — many sellers offer bears with similar textures and styles.\n   - **Etsy** – Great for handmade or unique plush bears, often with vintage or artisanal designs.\n   - **Target, Walmart, or IKEA** – Often carry plush bears in various sizes and styles; look for “soft plush” or “teddy bear” categories.\n   - **Shopify or independent boutiques** – Some small retailers sell unique plush bears",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

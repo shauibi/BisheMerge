@@ -1,0 +1,172 @@
+[
+  {
+    "id": 257000,
+    "prediction": "The car on the far right is red.",
+    "ground_truth": [
+      "red",
+      "red",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "red",
+      "red",
+      "pink and white",
+      "pink"
+    ],
+    "prompt": "What color is the car on the far right?"
+  },
+  {
+    "id": 257001,
+    "prediction": "Yes, there is an ice cream truck in the image. The white truck parked near the center of the scene, with the red and white logo on its side, is clearly an ice cream truck. It's parked in a busy area with many people around it.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is there an ice cream truck?"
+  },
+  {
+    "id": 257002,
+    "prediction": "Yes, it is daytime. The bright sunlight, clear blue sky, and visible shadows cast by the arch and people confirm it's daytime.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "prompt": "Is it daytime?"
+  },
+  {
+    "id": 257003,
+    "prediction": "No",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no dog",
+      "yes"
+    ],
+    "prompt": "Is the dog real?"
+  },
+  {
+    "id": 257004,
+    "prediction": "Based on the image, there is no visible advertisement for a shoe company. The image shows a busy street scene with people, food trucks, and the Arch of Triumph in the background, but no logos or signs for a shoe company are visible.",
+    "ground_truth": [
+      "nike",
+      "ricks",
+      "nike",
+      "none",
+      "ricks",
+      "nike",
+      "none",
+      "nike",
+      "reebok",
+      "none"
+    ],
+    "prompt": "What shoe company is advertised?"
+  },
+  {
+    "id": 257005,
+    "prediction": "The truck in the image has a **white** base color. It also features prominent **red** and **black** graphics and markings on its side, including a large red design and some black text or logos. The truck appears to be a food truck, as indicated by the serving windows and the context of the bustling street scene.",
+    "ground_truth": [
+      "red and white",
+      "white & red",
+      "white",
+      "red and white",
+      "red and white",
+      "white & red",
+      "white and red",
+      "white",
+      "red and white",
+      "white and red"
+    ],
+    "prompt": "What color is the truck?"
+  },
+  {
+    "id": 546191000,
+    "prediction": "No, the man is not flying a kite. He is kitesurfing — he is using a large kite to harness the wind and propel himself across the water on a surfboard. The kite in the image is attached to the surfer via a harness and is used to generate lift and propulsion, not for recreational kite flying like the kind you’d see in a park.",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no"
+    ],
+    "prompt": "Is the man flying a kite?"
+  },
+  {
+    "id": 546191001,
+    "prediction": "No, the moon is not visible in the photo. The image depicts an overcast, cloudy sky, which obscures any celestial objects such as the moon. There is no visible moon in the frame.",
+    "ground_truth": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prompt": "Is the moon visible in the photo?"
+  },
+  {
+    "id": 546191002,
+    "prediction": "Based on the provided image and the typical context of such scenes, there are **two** people in the picture:\n\n1.  **One person** is clearly visible in the foreground on the left, standing near the water's edge. This person appears to be holding a kiteboard or a similar water sports equipment, possibly preparing to go kitesurfing or just standing by.\n\n2.  **The second person** is the **kitesurfer** (the person flying the kite) who is **not visible** in the image. The **kite** (a red and black curved shape) is the only part of the",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prompt": "How many people are in this picture?"
+  },
+  {
+    "id": 546191003,
+    "prediction": "No, it's not the letter D in the air. The object you're seeing is a **kite**, specifically a **kiteboard (or kite surf) kite**, which is being used by someone on the water. It’s shaped like a curved, crescent or arc, and its red and black color makes it stand out against the overcast sky.\n\nThe \"D\" shape you’re thinking of might be a visual impression — perhaps you’re seeing the kite’s curved shape and mentally associating it with the letter D. But it’s not a letter at all — it’s a piece of equipment for water sports!\n\nSo",
+    "ground_truth": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "kite",
+      "no",
+      "no"
+    ],
+    "prompt": "Is that the letter D in the air?"
+  }
+]

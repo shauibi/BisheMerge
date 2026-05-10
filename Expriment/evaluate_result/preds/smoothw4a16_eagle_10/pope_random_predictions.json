@@ -1,0 +1,62 @@
+[
+  {
+    "id": 253,
+    "prediction": "Yes, there are multiple people in the image. One person in a light blue shirt is leaning over the table, another person in a black shirt is standing in the background, and there's also someone on the far left holding a phone.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 254,
+    "prediction": "No, there is no cat in the image. The scene depicts a group of people in an indoor setting, likely an office or meeting room, with one person leaning over a table that has food and drinks. There are no animals, and no cats are visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a cat in the image?"
+  },
+  {
+    "id": 255,
+    "prediction": "Yes, there is a bottle in the image. Specifically, there is a plastic bottle of what appears to be a beverage (possibly soda) with a green and yellow label, located on the right side of the white table. There may be other bottles or containers in the background, but the most prominent and clearly identifiable bottle is the one on the table.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bottle in the image?"
+  },
+  {
+    "id": 256,
+    "prediction": "No, there is no wine glass in the image. The table has a cup and a bottle, but no wine glasses are visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a wine glass in the image?"
+  },
+  {
+    "id": 257,
+    "prediction": "Yes, there is a dining table in the image. The table is white and rectangular, with several people gathered around it. One person is leaning over it, placing or adjusting something on the table, while others are standing nearby. There are also items like a cup, a bottle, and some snacks on the table. The table appears to be used for eating or casual gathering.",
+    "ground_truth": "yes",
+    "prompt": "Is there a dining table in the image?"
+  },
+  {
+    "id": 258,
+    "prediction": "No, there is no snowboard in the image. The image shows a group of people in an indoor setting, likely an office or meeting room, with a table and some snacks. There are no snowboards or any snow-related equipment visible.",
+    "ground_truth": "no",
+    "prompt": "Is there a snowboard in the image?"
+  },
+  {
+    "id": 463,
+    "prediction": "Yes, there is a person in the image. The image shows a young child, likely a toddler or preschooler, standing at a kitchen sink. The child is wearing a light-colored, patterned shirt and is looking toward the camera with an expression of curiosity or surprise. The child appears to be leaning over or reaching toward the sink area, possibly engaging in a kitchen activity.",
+    "ground_truth": "yes",
+    "prompt": "Is there a person in the image?"
+  },
+  {
+    "id": 464,
+    "prediction": "No clock is visible in the image. The focus is on the kitchen sink area with a child, dishes, and various kitchen items, but no clock is present.",
+    "ground_truth": "no",
+    "prompt": "Is there a clock in the image?"
+  },
+  {
+    "id": 465,
+    "prediction": "Yes, there is a bowl in the image. The child is leaning over the kitchen sink, and next to the sink there is a stainless steel bowl filled with green apples. The bowl is positioned on the countertop, near the edge of the sink.",
+    "ground_truth": "yes",
+    "prompt": "Is there a bowl in the image?"
+  },
+  {
+    "id": 466,
+    "prediction": "No, there is no elephant in the image. The image shows a child at a kitchen sink with various kitchen items around them.",
+    "ground_truth": "no",
+    "prompt": "Is there an elephant in the image?"
+  }
+]

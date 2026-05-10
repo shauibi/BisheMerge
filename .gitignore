@@ -1,0 +1,8 @@
+*.apk
+*.aab
+LlmApp/app/build/
+LlmApp/build/
+Expriment/new_MNN/
+Expriment/dataset/
+Expriment/mnn_model/
+Expriment/origin_model/

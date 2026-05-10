@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3045575,
+    "prediction": "Based on the visual clues in the image, this appears to be **Tsim Sha Tsui** in Hong Kong, a major commercial and entertainment district. The dense, colorful neon signage, bustling crowds, and the specific layout of the streets with yellow crosswalks are characteristic of this area.\n\n**Why someone might go to this place:**\n\n1.  **Shopping & Dining**: Tsim Sha Tsui is renowned for its high-density shopping centers, department stores, and a vast array of restaurants and cafes. It’s a major hub for retail and food, especially popular with locals and tourists alike.\n  \n2.  **Entertainment",
+    "ground_truth": [
+      "shop",
+      "shop",
+      "shop",
+      "shop",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prompt": "Why might someone go to this place?"
+  },
+  {
+    "id": 1803295,
+    "prediction": "The image shows a yellow taxi cab on a city street, likely in New York City, given the iconic yellow taxi and the urban environment. The question asks what new company has created competition for this type of transportation.\n\nThe most significant and widely recognized competitor to traditional taxi cabs (and indeed, to the broader taxi-hailing system) is **Uber**.\n\nUber (now part of the Uber Technologies, Inc. company) introduced a ride-hailing service via a smartphone app that allows users to request rides from drivers, often with more flexible pricing and a more direct, app-based interface. Uber’s entry into the market in 20",
+    "ground_truth": [
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber",
+      "uber"
+    ],
+    "prompt": "What new company has created competition for this type of transportation?"
+  },
+  {
+    "id": 4642635,
+    "prediction": "In",
+    "ground_truth": [
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse",
+      "mouse"
+    ],
+    "prompt": "What object is synonymous with a rodent in this image?"
+  },
+  {
+    "id": 358945,
+    "prediction": "This is an illegal fire hydrant color.\n\nFire hydrants are required to be painted a specific, standardized color (typically bright red in the U.S.) to ensure they are easily visible to firefighters in an emergency. The standard color is bright red, and in many areas, other colors (like yellow or green) are not permitted, as they can cause confusion and delay emergency response times.\n\nIn the image, the hydrant is painted a pale, light greenish-yellow color — which is not the standard color. While some jurisdictions may allow for certain variations or temporary paint for maintenance, the standard color is bright red, and this color is",
+    "ground_truth": [
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal",
+      "legal"
+    ],
+    "prompt": "Is this a legal or illegal fire hydrant color?"
+  },
+  {
+    "id": 1610475,
+    "prediction": "Based on the image, there’s no item on top of the stove visible in the photo. The stove is clean and has no visible item on its surface. \n\nTherefore, no beverage can be made with an item on top of the stove as there is no such item visible. \n\nIf you’re referring to an item that might be in the kitchen, such as coffee beans, tea, or a kettle, those are not on top of the stove in this image. \n\nTo make a beverage, one might use:\n\n- **Coffee** – if coffee beans or a coffee maker were present.\n- **Tea** – if loose tea",
+    "ground_truth": [
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea",
+      "tea"
+    ],
+    "prompt": "What kind of beverage could one make with the item on top of the stove?"
+  },
+  {
+    "id": 351605,
+    "prediction": "Based on the image, the trees in the background are tall, slender palm trees.\n\nPalm trees are common in tropical and subtropical coastal areas, and their presence along with the beach, ocean, and distant island (which looks like an iconic Hawaiian landscape) strongly suggests this is a tropical location, likely in Hawaii. The specific type of palm tree is not identifiable from this image alone, but they are likely some variety of coconut palm or a similar species native to the region.\n\nSo, to summarize:\n\n**The trees in the background are palm trees.**\n\nThis setting is very characteristic of Hawaii’s coastal scenery.",
+    "ground_truth": [
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm"
+    ],
+    "prompt": "What kind of trees are in the background?"
+  },
+  {
+    "id": 245605,
+    "prediction": "This picture was taken from the **International Space Station (ISS)**.\n\nThe image shows astronauts (or possibly astronauts in spacesuits) floating in microgravity, with the curvature of Earth visible in the background. The presence of the Earth’s atmosphere and the distinct blue-white horizon line indicates they are in low Earth orbit, which is the typical location of the ISS.\n\nAdditionally, the small flags (such as the Union Jack) and the \"MAT\" patch suggest the astronauts may be from the UK or part of a UK space mission, which is common for astronauts aboard the ISS, especially during missions involving UK space agencies or astronauts from the UK (",
+    "ground_truth": [
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "space",
+      "outer space",
+      "outer space",
+      "outer space",
+      "outer space"
+    ],
+    "prompt": "Where is this picture taken from?"
+  },
+  {
+    "id": 5416645,
+    "prediction": "This display is taken from what famous children’s novel? The answer is *The LEGO Movie* (2014) by Warner Bros. Animation and Warner Bros. Pictures. However, the image you’ve shown is not from *The LEGO Movie* — it’s a **LEGO diorama** of a **keyboard** surrounded by LEGO minifigures and other LEGO elements, which is part of a broader LEGO theme.\n\nBut more specifically — and crucially — this image is **not** from a children’s novel. It’s from a **LEGO set**, likely part of a LEGO theme (such as LEGO Technic",
+    "ground_truth": [
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "harry potter",
+      "lion witch and wardrobe",
+      "lion witch and wardrobe",
+      "lego",
+      "lego",
+      "wrinkle in time",
+      "wrinkle in time"
+    ],
+    "prompt": "This display is taken from what famous children's novel?"
+  },
+  {
+    "id": 1063305,
+    "prediction": "You’re looking at a very specific and charmingly textured teddy bear — the kind with a plush, slightly frayed, almost “handmade” or “vintage” aesthetic. The bear has a soft, fluffy appearance with a distinct lighting effect that gives it a dreamy, slightly surreal glow.\n\nThis style is reminiscent of bears from:\n\n- **The \"Bear\" series by designer and artist** — such as the **“Polar Bear” or “Teddy Bear”** by **Tiffany & Co.** or **Dale Chihuly** (but no, that’s not right — more likely it’s inspired",
+    "ground_truth": [
+      "toy store",
+      "toy store",
+      "toy store",
+      "toy store",
+      "target",
+      "target",
+      "gundt",
+      "gundt",
+      "walmart",
+      "walmart"
+    ],
+    "prompt": "Where can i buy a bear similar to this one?"
+  },
+  {
+    "id": 5724955,
+    "prediction": "This",
+    "ground_truth": [
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "desktop",
+      "laptop",
+      "laptop",
+      "both",
+      "both"
+    ],
+    "prompt": "Is this a laptop or desktop?"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "113588",
+    "prediction": "This",
+    "ground_truth": [
+      "several young students working at a desk with multiple computers",
+      "A young man at his workstation examines the monitor of a lap top, with one hand on the keyboard and the other on the mouse.",
+      "A man is working on a laptop next to other computers.",
+      "People in a large room, use multiple computers.",
+      "A young professional is working at his laptop while his coworker is reading material."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "574769",
+    "prediction": "This",
+    "ground_truth": [
+      "A woman in a room with a cat.",
+      "A girl smiles as she holds a cat and wears a brightly colored skirt.",
+      "a woman is holding a cat in her kitchen",
+      "A woman is working in a kitchen carrying a soft toy.",
+      "A woman is holding a cat in her kitchen."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "384213",
+    "prediction": "This",
+    "ground_truth": [
+      "A kitchen is shown with a variety of items on the counters.",
+      "A kitchen has the windows open and plaid curtains.",
+      "A kitchen with two windows and two metal sinks.",
+      "An older kitchen with cluttered counter tops but empty sink.",
+      "Glasses and bottles are placed near a kitchen sink."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "384553",
+    "prediction": "This",
+    "ground_truth": [
+      "A man riding an elephant into some water of a creek.",
+      "man riding an elephant into water surrounded by forest",
+      "A man riding an elephant in a river.",
+      "A man in a brown shirt rides an elephant into the water.",
+      "A man rides an elephant into a river."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "368402",
+    "prediction": "This",
+    "ground_truth": [
+      "The woman in the kitchen is holding a huge pan.",
+      "A chef carrying a large pan inside of a kitchen.",
+      "A woman is holding a large pan in a kitchen. ",
+      "A woman cooking in a kitchen with granite counters.",
+      "A woman cooking in her kitchen with a black pan."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "391895",
+    "prediction": "This",
+    "ground_truth": [
+      "A man with a red helmet on a small moped on a dirt road. ",
+      "Man riding a motor bike on a dirt road on the countryside.",
+      "A man riding on the back of a motorcycle.",
+      "A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains. ",
+      "A man in a red shirt and a red hat is on a motorcycle on a hill side."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "184613",
+    "prediction": "This",
+    "ground_truth": [
+      "A child holding a flowered umbrella and petting a yak.",
+      "A young man holding an umbrella next to a herd of cattle.",
+      "a young boy barefoot holding an umbrella touching the horn of a cow",
+      "A young boy with an umbrella who is touching the horn of a cow.",
+      "A boy holding an umbrella while standing next to livestock."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "309022",
+    "prediction": "This",
+    "ground_truth": [
+      "A commercial stainless kitchen with a pot of food cooking. ",
+      "Some food sits in a pot in a kitchen. ",
+      "A kitchen has all stainless steel appliances and counters.",
+      "a kitchen with a sink and many cooking machines and a pot of food",
+      "Food cooks in a pot on a stove in a kitchen."
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "5802",
+    "prediction": "This",
+    "ground_truth": [
+      "Two men wearing aprons working in a commercial-style kitchen.",
+      "Chefs preparing food in a professional metallic style kitchen.",
+      "Two people standing around in a large kitchen.",
+      "A commercial kitchen with two men working to prepare several plates.",
+      "two men in white shirts in a large steel kitchen"
+    ],
+    "prompt": "Please describe this image in detail."
+  },
+  {
+    "id": "483108",
+    "prediction": "This",
+    "ground_truth": [
+      "A man on a bicycle riding next to a train",
+      "A person is riding a bicycle but there is a train in the background.",
+      "a red and white train and a man riding a bicycle",
+      "a guy that is riding his bike next to a train",
+      "A man riding a bike past a train traveling along tracks."
+    ],
+    "prompt": "Please describe this image in detail."
+  }
+]
