@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="arrm" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2563eb"/>
+    </marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .core{fill:#eff6ff;stroke:#2563eb;stroke-width:2.6;rx:18;ry:18}
+      .module{fill:#f8fafc;stroke:#334155;stroke-width:2;rx:14;ry:14}
+      .chat{fill:#dbeafe;stroke:#2563eb;stroke-width:2;rx:12;ry:12}
+      .rag{fill:#dcfce7;stroke:#16a34a;stroke-width:2;rx:12;ry:12}
+      .voice{fill:#fef3c7;stroke:#d97706;stroke-width:2;rx:12;ry:12}
+      .model{fill:#fae8ff;stroke:#9333ea;stroke-width:2;rx:12;ry:12}
+      .data{fill:#fee2e2;stroke:#dc2626;stroke-width:2;rx:12;ry:12}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:18px;font-weight:700;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:14px;fill:#475569}
+      .tiny{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:13px;fill:#64748b}
+      .arrow{stroke:#2563eb;stroke-width:2.2;fill:none;marker-end:url(#arrm)}
+      .dash{stroke:#64748b;stroke-width:1.8;fill:none;stroke-dasharray:6 5;marker-end:url(#arrm)}
+    </style>
+  </defs>
+
+  <text x="600" y="52" text-anchor="middle" class="title">端侧 LLM 应用功能模块图</text>
+
+  <rect x="455" y="305" width="290" height="120" class="core"/>
+  <text x="600" y="350" text-anchor="middle" class="text">端侧 LLM 应用系统</text>
+  <text x="600" y="378" text-anchor="middle" class="small">统一调度对话、知识库、模型与本地数据</text>
+
+  <rect x="80" y="120" width="285" height="150" class="module"/>
+  <rect x="105" y="148" width="235" height="46" class="chat"/>
+  <text x="222" y="177" text-anchor="middle" class="text">对话交互模块</text>
+  <text x="125" y="222" class="small">• 多会话创建与切换</text>
+  <text x="125" y="246" class="small">• 文本/图片消息展示</text>
+  <text x="125" y="270" class="small">• 流式回复与停止生成</text>
+
+  <rect x="835" y="120" width="285" height="150" class="module"/>
+  <rect x="860" y="148" width="235" height="46" class="rag"/>
+  <text x="977" y="177" text-anchor="middle" class="text">RAG 知识库模块</text>
+  <text x="880" y="222" class="small">• 文档导入与文本解析</text>
+  <text x="880" y="246" class="small">• 分块向量化与存储</text>
+  <text x="880" y="270" class="small">• Top-K 相似度检索</text>
+
+  <rect x="80" y="470" width="285" height="150" class="module"/>
+  <rect x="105" y="498" width="235" height="46" class="voice"/>
+  <text x="222" y="527" text-anchor="middle" class="text">语音输入模块</text>
+  <text x="125" y="572" class="small">• Vosk 模型初始化</text>
+  <text x="125" y="596" class="small">• AudioRecord 录音采集</text>
+  <text x="125" y="620" class="small">• 转写结果填入输入框</text>
+
+  <rect x="835" y="470" width="285" height="150" class="module"/>
+  <rect x="860" y="498" width="235" height="46" class="model"/>
+  <text x="977" y="527" text-anchor="middle" class="text">模型与模板模块</text>
+  <text x="880" y="572" class="small">• LLM / Embedding 路径管理</text>
+  <text x="880" y="596" class="small">• 模型加载状态维护</text>
+  <text x="880" y="620" class="small">• 提示词模板复用</text>
+
+  <rect x="455" y="585" width="290" height="120" class="module"/>
+  <rect x="485" y="610" width="230" height="44" class="data"/>
+  <text x="600" y="638" text-anchor="middle" class="text">本地持久化模块</text>
+  <text x="505" y="676" class="small">• Room 保存会话/文档/向量</text>
+  <text x="505" y="700" class="small">• DataStore 保存模型配置</text>
+
+  <path d="M455 340 C390 310 390 230 365 205" class="arrow"/>
+  <path d="M745 340 C810 310 810 230 835 205" class="arrow"/>
+  <path d="M455 395 C390 425 390 520 365 545" class="arrow"/>
+  <path d="M745 395 C810 425 810 520 835 545" class="arrow"/>
+  <path d="M600 425 V585" class="arrow"/>
+
+  <path d="M365 545 C455 520 500 455 560 425" class="dash"/>
+  <path d="M835 205 C770 245 715 280 670 305" class="dash"/>
+  <path d="M835 545 C760 525 700 465 645 425" class="dash"/>
+  <path d="M365 205 C440 230 500 280 555 305" class="dash"/>
+
+  <text x="600" y="735" text-anchor="middle" class="tiny">实线表示系统核心调度关系，虚线表示模块之间的数据或能力复用关系</text>
+</svg>
