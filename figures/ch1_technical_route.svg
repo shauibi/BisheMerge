@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2f5597" />
+    </marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#1f2937}
+      .box{fill:#f8fafc;stroke:#2f5597;stroke-width:2.5;rx:16;ry:16}
+      .box2{fill:#eef6ff;stroke:#2f5597;stroke-width:2.5;rx:16;ry:16}
+      .box3{fill:#f0fdf4;stroke:#2f7d32;stroke-width:2.5;rx:16;ry:16}
+      .box4{fill:#fff7ed;stroke:#c2410c;stroke-width:2.5;rx:16;ry:16}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:20px;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:16px;fill:#374151}
+      .arrow{stroke:#2f5597;stroke-width:3;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#64748b;stroke-width:2.2;fill:none;stroke-dasharray:8,6;marker-end:url(#arrow)}
+    </style>
+  </defs>
+
+
+  <rect x="70" y="95" width="250" height="110" class="box"/>
+  <text x="195" y="135" text-anchor="middle" class="text">研究问题提出</text>
+  <text x="195" y="166" text-anchor="middle" class="small">端侧LLM部署受限于</text>
+  <text x="195" y="190" text-anchor="middle" class="small">内存、算力、延迟与隐私需求</text>
+
+  <rect x="475" y="95" width="250" height="110" class="box2"/>
+  <text x="600" y="135" text-anchor="middle" class="text">量化与投机推理实验</text>
+  <text x="600" y="166" text-anchor="middle" class="small">SmoothQuant / OmniQuant</text>
+  <text x="600" y="190" text-anchor="middle" class="small">W4A16 / W8A8 + Eagle</text>
+
+  <rect x="880" y="95" width="250" height="110" class="box3"/>
+  <text x="1005" y="135" text-anchor="middle" class="text">帕累托综合选优</text>
+  <text x="1005" y="166" text-anchor="middle" class="small">精度、速度、内存多指标权衡</text>
+  <text x="1005" y="190" text-anchor="middle" class="small">选定 smoothw4a16_eagle</text>
+
+  <rect x="70" y="305" width="250" height="125" class="box2"/>
+  <text x="195" y="346" text-anchor="middle" class="text">端侧模型适配</text>
+  <text x="195" y="378" text-anchor="middle" class="small">LLM模型目录规范</text>
+  <text x="195" y="402" text-anchor="middle" class="small">BGE-small-zh 转 MNN</text>
+
+  <rect x="475" y="305" width="250" height="125" class="box4"/>
+  <text x="600" y="346" text-anchor="middle" class="text">Android应用实现</text>
+  <text x="600" y="378" text-anchor="middle" class="small">Kotlin + Compose + Room</text>
+  <text x="600" y="402" text-anchor="middle" class="small">JNI调用MNN C++推理引擎</text>
+
+  <rect x="880" y="305" width="250" height="125" class="box4"/>
+  <text x="1005" y="346" text-anchor="middle" class="text">全链路功能集成</text>
+  <text x="1005" y="378" text-anchor="middle" class="small">流式对话 + RAG知识库</text>
+  <text x="1005" y="402" text-anchor="middle" class="small">离线语音识别 + 模型管理</text>
+
+  <rect x="270" y="555" width="250" height="120" class="box3"/>
+  <text x="395" y="596" text-anchor="middle" class="text">系统测试与分析</text>
+  <text x="395" y="628" text-anchor="middle" class="small">功能测试、性能测试</text>
+  <text x="395" y="652" text-anchor="middle" class="small">RAG检索与ASR体验验证</text>
+
+  <rect x="680" y="555" width="250" height="120" class="box3"/>
+  <text x="805" y="596" text-anchor="middle" class="text">结论形成</text>
+  <text x="805" y="628" text-anchor="middle" class="small">验证端侧LLM全链路可行性</text>
+  <text x="805" y="652" text-anchor="middle" class="small">总结不足与后续改进方向</text>
+
+  <path d="M320 150 H465" class="arrow"/>
+  <path d="M725 150 H870" class="arrow"/>
+  <path d="M1005 205 C1005 250 195 250 195 295" class="arrow"/>
+  <path d="M320 367 H465" class="arrow"/>
+  <path d="M725 367 H870" class="arrow"/>
+  <path d="M1005 430 C1005 500 395 500 395 545" class="arrow"/>
+  <path d="M520 615 H670" class="arrow"/>
+
+  <path d="M600 430 C600 475 805 500 805 545" class="dash"/>
+  <text x="700" y="494" text-anchor="middle" class="small">工程数据反哺结论</text>
+</svg>
