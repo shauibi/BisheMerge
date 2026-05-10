@@ -13,7 +13,7 @@
     </style>
   </defs>
   <rect x="260" y="85" width="850" height="610" class="boundary"/>
-  <text x="685" y="122" text-anchor="middle" class="text">端侧 LLM 应用系统</text>
+  <text x="685" y="122" text-anchor="middle" class="text">端侧多模态 LLM 应用系统</text>
 
   <circle cx="125" cy="205" r="28" class="actor"/>
   <line x1="125" y1="233" x2="125" y2="330" class="actor"/>
@@ -23,7 +23,7 @@
   <text x="125" y="455" text-anchor="middle" class="text">普通用户</text>
 
   <ellipse cx="470" cy="180" rx="130" ry="44" class="case"/>
-  <text x="470" y="186" text-anchor="middle" class="text">进行LLM对话</text>
+  <text x="470" y="186" text-anchor="middle" class="text">进行图文对话</text>
   <ellipse cx="800" cy="180" rx="130" ry="44" class="case"/>
   <text x="800" y="186" text-anchor="middle" class="text">管理会话记录</text>
 
@@ -38,9 +38,9 @@
   <text x="800" y="416" text-anchor="middle" class="text">管理模型路径</text>
 
   <ellipse cx="470" cy="525" rx="130" ry="44" class="case"/>
-  <text x="470" y="531" text-anchor="middle" class="text">使用提示词模板</text>
+  <text x="470" y="531" text-anchor="middle" class="text">使用图文请求模板</text>
   <ellipse cx="800" cy="525" rx="130" ry="44" class="case"/>
-  <text x="800" y="531" text-anchor="middle" class="text">查看推理状态</text>
+  <text x="800" y="531" text-anchor="middle" class="text">图像输入提问</text>
 
   <line x1="180" y1="270" x2="340" y2="180" class="line"/>
   <line x1="180" y1="280" x2="670" y2="180" class="line"/>
@@ -51,5 +51,5 @@
   <line x1="180" y1="355" x2="340" y2="525" class="line"/>
   <line x1="180" y1="370" x2="670" y2="525" class="line"/>
 
-  <text x="685" y="640" text-anchor="middle" class="small">系统为纯端侧应用，不设置注册登录角色；用户通过本地界面完成模型、对话、知识库与语音交互操作。</text>
+  <text x="685" y="640" text-anchor="middle" class="small">系统为纯端侧应用，不设置注册登录角色；用户通过本地界面完成模型、图文对话、知识库、图像与语音交互操作。</text>
 </svg>

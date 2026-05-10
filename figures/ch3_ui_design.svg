@@ -16,6 +16,7 @@
     </style>
   </defs>
 
+  <text x="600" y="48" text-anchor="middle" class="title">端侧多模态 LLM 应用用户界面概要设计</text>
 
   <rect x="70" y="90" width="240" height="570" class="phone"/>
   <rect x="90" y="120" width="200" height="500" class="screen"/>
@@ -28,7 +29,7 @@
   <rect x="108" y="345" width="150" height="58" class="bubble2"/>
   <text x="183" y="374" text-anchor="middle" class="small">流式生成内容</text>
   <rect x="108" y="505" width="170" height="42" class="nav"/>
-  <text x="193" y="531" text-anchor="middle" class="small">输入框 / 语音 / RAG</text>
+  <text x="193" y="531" text-anchor="middle" class="small">图片 / 输入框 / 语音 / RAG</text>
   <rect x="108" y="565" width="170" height="34" class="nav"/>
   <text x="193" y="587" text-anchor="middle" class="tiny">聊天  模板  知识库  设置</text>
 
@@ -65,7 +66,7 @@
   <rect x="945" y="138" width="170" height="44" class="bar"/>
   <text x="1030" y="166" text-anchor="middle" class="text">设置页面</text>
   <rect x="948" y="212" width="164" height="58" class="setting"/>
-  <text x="1030" y="239" text-anchor="middle" class="small">选择 LLM 模型</text>
+  <text x="1030" y="239" text-anchor="middle" class="small">选择 Qwen3-VL 模型</text>
   <text x="1030" y="259" text-anchor="middle" class="tiny">加载状态显示</text>
   <rect x="948" y="302" width="164" height="58" class="setting"/>
   <text x="1030" y="329" text-anchor="middle" class="small">选择 Embedding</text>
@@ -76,5 +77,5 @@
   <rect x="948" y="565" width="164" height="34" class="nav"/>
   <text x="1030" y="587" text-anchor="middle" class="tiny">模型配置入口</text>
 
-  <text x="600" y="715" text-anchor="middle" class="small">底部导航保持四个核心页面一致；各页面通过状态提示降低模型加载、文档处理和流式生成的不确定性</text>
+  <text x="600" y="715" text-anchor="middle" class="small">底部导航保持四个核心页面一致；各页面通过状态提示降低模型加载、图像选择、文档处理和流式生成的不确定性</text>
 </svg>

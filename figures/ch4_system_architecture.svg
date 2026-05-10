@@ -17,7 +17,7 @@
 
   <rect x="70" y="85" width="1060" height="105" class="layer"/>
   <text x="100" y="125" class="label">表现层</text>
-  <rect x="270" y="105" width="140" height="58" class="box"/><text x="340" y="140" text-anchor="middle" class="text">聊天界面</text>
+  <rect x="270" y="105" width="140" height="58" class="box"/><text x="340" y="140" text-anchor="middle" class="text">图文聊天界面</text>
   <rect x="460" y="105" width="140" height="58" class="box"/><text x="530" y="140" text-anchor="middle" class="text">知识库界面</text>
   <rect x="650" y="105" width="140" height="58" class="box"/><text x="720" y="140" text-anchor="middle" class="text">模板界面</text>
   <rect x="840" y="105" width="140" height="58" class="box"/><text x="910" y="140" text-anchor="middle" class="text">设置界面</text>
@@ -31,7 +31,7 @@
 
   <rect x="70" y="375" width="1060" height="120" class="layer"/>
   <text x="100" y="425" class="label">业务与数据层</text>
-  <rect x="190" y="395" width="150" height="70" class="boxp"/><text x="265" y="424" text-anchor="middle" class="text">ChatRepository</text><text x="265" y="448" text-anchor="middle" class="small">会话/消息</text>
+  <rect x="190" y="395" width="150" height="70" class="boxp"/><text x="265" y="424" text-anchor="middle" class="text">ChatRepository</text><text x="265" y="448" text-anchor="middle" class="small">会话/图文消息</text>
   <rect x="390" y="395" width="150" height="70" class="boxp"/><text x="465" y="424" text-anchor="middle" class="text">RagRepository</text><text x="465" y="448" text-anchor="middle" class="small">文档/向量检索</text>
   <rect x="590" y="395" width="150" height="70" class="boxp"/><text x="665" y="424" text-anchor="middle" class="text">ModelRepository</text><text x="665" y="448" text-anchor="middle" class="small">模型路径</text>
   <rect x="790" y="395" width="150" height="70" class="boxp"/><text x="865" y="424" text-anchor="middle" class="text">Room/DataStore</text><text x="865" y="448" text-anchor="middle" class="small">本地持久化</text>
@@ -39,12 +39,12 @@
   <rect x="70" y="545" width="1060" height="115" class="layer"/>
   <text x="100" y="590" class="label">Native能力层</text>
   <rect x="270" y="565" width="180" height="64" class="boxo"/><text x="360" y="592" text-anchor="middle" class="text">JNI接口</text><text x="360" y="615" text-anchor="middle" class="small">NativeLib</text>
-  <rect x="510" y="565" width="180" height="64" class="boxo"/><text x="600" y="592" text-anchor="middle" class="text">MNN LLM</text><text x="600" y="615" text-anchor="middle" class="small">流式推理</text>
+  <rect x="510" y="565" width="180" height="64" class="boxo"/><text x="600" y="592" text-anchor="middle" class="text">MNN Qwen3-VL</text><text x="600" y="615" text-anchor="middle" class="small">图文流式推理</text>
   <rect x="750" y="565" width="180" height="64" class="boxo"/><text x="840" y="592" text-anchor="middle" class="text">MNN Embedding</text><text x="840" y="615" text-anchor="middle" class="small">向量计算</text>
 
   <rect x="70" y="700" width="1060" height="70" class="layer"/>
   <text x="100" y="742" class="label">外部输入与设备资源</text>
-  <text x="360" y="742" class="text">SAF文档选择</text>
+  <text x="360" y="742" class="text">SAF文档/图像选择</text>
   <text x="600" y="742" class="text">AudioRecord麦克风输入</text>
   <text x="880" y="742" class="text">应用私有存储</text>
 

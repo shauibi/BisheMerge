@@ -16,24 +16,26 @@
     </style>
   </defs>
 
+  <text x="600" y="48" text-anchor="middle" class="title">端侧 Qwen3-VL 应用数据流图</text>
+
   <rect x="60" y="110" width="170" height="80" class="actor"/>
   <text x="145" y="145" text-anchor="middle" class="text">普通用户</text>
-  <text x="145" y="170" text-anchor="middle" class="small">文本 / 语音 / 文档</text>
+  <text x="145" y="170" text-anchor="middle" class="small">文本 / 图像 / 语音 / 文档</text>
 
   <rect x="310" y="90" width="230" height="105" class="process"/>
   <text x="425" y="130" text-anchor="middle" class="text">P1 输入与界面交互</text>
   <text x="425" y="158" text-anchor="middle" class="small">Compose 页面、会话选择</text>
-  <text x="425" y="179" text-anchor="middle" class="small">RAG 开关、模板填充</text>
+  <text x="425" y="179" text-anchor="middle" class="small">图片选择、RAG 开关、模板填充</text>
 
   <rect x="650" y="90" width="230" height="105" class="process"/>
   <text x="765" y="130" text-anchor="middle" class="text">P2 对话编排</text>
   <text x="765" y="158" text-anchor="middle" class="small">ChatViewModel</text>
-  <text x="765" y="179" text-anchor="middle" class="small">提示词组装与流式状态</text>
+  <text x="765" y="179" text-anchor="middle" class="small">图文请求组装与流式状态</text>
 
   <rect x="950" y="90" width="185" height="105" class="native"/>
-  <text x="1042" y="130" text-anchor="middle" class="text">P3 LLM 推理</text>
+  <text x="1042" y="130" text-anchor="middle" class="text">P3 Qwen3-VL 推理</text>
   <text x="1042" y="158" text-anchor="middle" class="small">JNI + MNN</text>
-  <text x="1042" y="179" text-anchor="middle" class="small">Token 流式输出</text>
+  <text x="1042" y="179" text-anchor="middle" class="small">图文理解 + Token 输出</text>
 
   <rect x="310" y="340" width="230" height="105" class="process"/>
   <text x="425" y="380" text-anchor="middle" class="text">P4 文档处理</text>
@@ -52,11 +54,11 @@
 
   <rect x="285" y="610" width="250" height="75" class="store"/>
   <text x="410" y="643" text-anchor="middle" class="text">D1 Room 数据库</text>
-  <text x="410" y="668" text-anchor="middle" class="small">会话、消息、文档、分块、向量</text>
+  <text x="410" y="668" text-anchor="middle" class="small">会话、消息、图像路径、文档、向量</text>
 
   <rect x="665" y="610" width="250" height="75" class="store"/>
   <text x="790" y="643" text-anchor="middle" class="text">D2 DataStore / 私有目录</text>
-  <text x="790" y="668" text-anchor="middle" class="small">模型路径、文档副本、语音模型</text>
+  <text x="790" y="668" text-anchor="middle" class="small">模型路径、图片、文档、语音模型</text>
 
   <path d="M230 150 H310" class="arrow"/>
   <path d="M540 142 H650" class="arrow"/>
@@ -74,9 +76,9 @@
   <path d="M650 120 C600 105 560 105 540 120" class="dash"/>
   <path d="M950 125 C920 115 900 115 880 125" class="dash"/>
 
-  <text x="275" y="135" class="small">用户输入</text>
+  <text x="275" y="135" class="small">图文输入</text>
   <text x="585" y="125" class="small">事件/状态</text>
-  <text x="895" y="125" class="small">提示词</text>
+  <text x="895" y="125" class="small">图文请求</text>
   <text x="810" y="267" class="small">RAG 上下文</text>
   <text x="1060" y="270" class="small">转写文本</text>
   <text x="445" y="275" class="small">文档 Uri</text>
