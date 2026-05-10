@@ -16,7 +16,6 @@
     </style>
   </defs>
 
-  <text x="600" y="48" text-anchor="middle" class="title">端侧 LLM 应用用户界面概要设计</text>
 
   <rect x="70" y="90" width="240" height="570" class="phone"/>
   <rect x="90" y="120" width="200" height="500" class="screen"/>
