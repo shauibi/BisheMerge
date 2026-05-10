@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <defs>
+    <marker id="arr4" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#2563eb"/></marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .layer{fill:#f8fafc;stroke:#334155;stroke-width:2.4;rx:18;ry:18}
+      .box{fill:#eff6ff;stroke:#2563eb;stroke-width:2;rx:12;ry:12}
+      .boxg{fill:#f0fdf4;stroke:#16a34a;stroke-width:2;rx:12;ry:12}
+      .boxo{fill:#fff7ed;stroke:#ea580c;stroke-width:2;rx:12;ry:12}
+      .boxp{fill:#faf5ff;stroke:#9333ea;stroke-width:2;rx:12;ry:12}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:18px;font-weight:600;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:14px;fill:#475569}
+      .label{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:18px;font-weight:700;fill:#0f172a}
+      .arrow{stroke:#2563eb;stroke-width:2.5;fill:none;marker-end:url(#arr4)}
+    </style>
+  </defs>
+
+  <rect x="70" y="85" width="1060" height="105" class="layer"/>
+  <text x="100" y="125" class="label">表现层</text>
+  <rect x="270" y="105" width="140" height="58" class="box"/><text x="340" y="140" text-anchor="middle" class="text">图文聊天界面</text>
+  <rect x="460" y="105" width="140" height="58" class="box"/><text x="530" y="140" text-anchor="middle" class="text">知识库界面</text>
+  <rect x="650" y="105" width="140" height="58" class="box"/><text x="720" y="140" text-anchor="middle" class="text">模板界面</text>
+  <rect x="840" y="105" width="140" height="58" class="box"/><text x="910" y="140" text-anchor="middle" class="text">设置界面</text>
+
+  <rect x="70" y="230" width="1060" height="105" class="layer"/>
+  <text x="100" y="270" class="label">状态管理层</text>
+  <rect x="220" y="250" width="175" height="58" class="boxg"/><text x="307" y="285" text-anchor="middle" class="text">ChatViewModel</text>
+  <rect x="430" y="250" width="175" height="58" class="boxg"/><text x="517" y="285" text-anchor="middle" class="text">KnowledgeViewModel</text>
+  <rect x="640" y="250" width="175" height="58" class="boxg"/><text x="727" y="285" text-anchor="middle" class="text">TemplateViewModel</text>
+  <rect x="850" y="250" width="175" height="58" class="boxg"/><text x="937" y="285" text-anchor="middle" class="text">SettingsViewModel</text>
+
+  <rect x="70" y="375" width="1060" height="120" class="layer"/>
+  <text x="100" y="425" class="label">业务与数据层</text>
+  <rect x="190" y="395" width="150" height="70" class="boxp"/><text x="265" y="424" text-anchor="middle" class="text">ChatRepository</text><text x="265" y="448" text-anchor="middle" class="small">会话/图文消息</text>
+  <rect x="390" y="395" width="150" height="70" class="boxp"/><text x="465" y="424" text-anchor="middle" class="text">RagRepository</text><text x="465" y="448" text-anchor="middle" class="small">文档/向量检索</text>
+  <rect x="590" y="395" width="150" height="70" class="boxp"/><text x="665" y="424" text-anchor="middle" class="text">ModelRepository</text><text x="665" y="448" text-anchor="middle" class="small">模型路径</text>
+  <rect x="790" y="395" width="150" height="70" class="boxp"/><text x="865" y="424" text-anchor="middle" class="text">Room/DataStore</text><text x="865" y="448" text-anchor="middle" class="small">本地持久化</text>
+
+  <rect x="70" y="545" width="1060" height="115" class="layer"/>
+  <text x="100" y="590" class="label">Native能力层</text>
+  <rect x="270" y="565" width="180" height="64" class="boxo"/><text x="360" y="592" text-anchor="middle" class="text">JNI接口</text><text x="360" y="615" text-anchor="middle" class="small">NativeLib</text>
+  <rect x="510" y="565" width="180" height="64" class="boxo"/><text x="600" y="592" text-anchor="middle" class="text">MNN Qwen3-VL</text><text x="600" y="615" text-anchor="middle" class="small">图文流式推理</text>
+  <rect x="750" y="565" width="180" height="64" class="boxo"/><text x="840" y="592" text-anchor="middle" class="text">MNN Embedding</text><text x="840" y="615" text-anchor="middle" class="small">向量计算</text>
+
+  <rect x="70" y="700" width="1060" height="70" class="layer"/>
+  <text x="100" y="742" class="label">外部输入与设备资源</text>
+  <text x="360" y="742" class="text">SAF文档/图像选择</text>
+  <text x="600" y="742" class="text">AudioRecord麦克风输入</text>
+  <text x="880" y="742" class="text">应用私有存储</text>
+
+  <path d="M600 190 V225" class="arrow"/>
+  <path d="M600 335 V370" class="arrow"/>
+  <path d="M600 495 V540" class="arrow"/>
+  <path d="M600 660 V695" class="arrow"/>
+</svg>

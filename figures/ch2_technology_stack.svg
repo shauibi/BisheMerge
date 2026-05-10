@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <defs>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#1d4ed8" />
+    </marker>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .layer{fill:#f8fafc;stroke:#334155;stroke-width:2.2;rx:20;ry:20}
+      .module-blue{fill:#eff6ff;stroke:#2563eb;stroke-width:2;rx:14;ry:14}
+      .module-green{fill:#f0fdf4;stroke:#16a34a;stroke-width:2;rx:14;ry:14}
+      .module-orange{fill:#fff7ed;stroke:#ea580c;stroke-width:2;rx:14;ry:14}
+      .module-purple{fill:#faf5ff;stroke:#9333ea;stroke-width:2;rx:14;ry:14}
+      .module-gray{fill:#f1f5f9;stroke:#475569;stroke-width:2;rx:14;ry:14}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:19px;fill:#111827;font-weight:600}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:15px;fill:#374151}
+      .label{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:18px;fill:#0f172a;font-weight:700}
+      .arrow{stroke:#1d4ed8;stroke-width:2.6;fill:none;marker-end:url(#arrow2)}
+      .dash{stroke:#64748b;stroke-width:2;fill:none;stroke-dasharray:7,6;marker-end:url(#arrow2)}
+    </style>
+  </defs>
+
+
+  <rect x="55" y="85" width="1090" height="110" class="layer"/>
+  <text x="90" y="122" class="label">交互与表现层</text>
+  <rect x="250" y="105" width="170" height="65" class="module-blue"/>
+  <text x="335" y="132" text-anchor="middle" class="text">Jetpack Compose</text>
+  <text x="335" y="155" text-anchor="middle" class="small">聊天/知识库/设置界面</text>
+  <rect x="515" y="105" width="170" height="65" class="module-blue"/>
+  <text x="600" y="132" text-anchor="middle" class="text">MVVM</text>
+  <text x="600" y="155" text-anchor="middle" class="small">ViewModel状态管理</text>
+  <rect x="780" y="105" width="170" height="65" class="module-blue"/>
+  <text x="865" y="132" text-anchor="middle" class="text">Markdown渲染</text>
+  <text x="865" y="155" text-anchor="middle" class="small">流式结果展示</text>
+
+  <rect x="55" y="230" width="1090" height="120" class="layer"/>
+  <text x="90" y="270" class="label">应用业务层</text>
+  <rect x="220" y="250" width="160" height="70" class="module-green"/>
+  <text x="300" y="278" text-anchor="middle" class="text">LLM对话</text>
+  <text x="300" y="302" text-anchor="middle" class="small">流式生成/历史裁剪</text>
+  <rect x="430" y="250" width="160" height="70" class="module-green"/>
+  <text x="510" y="278" text-anchor="middle" class="text">RAG知识库</text>
+  <text x="510" y="302" text-anchor="middle" class="small">解析/切片/检索</text>
+  <rect x="640" y="250" width="160" height="70" class="module-green"/>
+  <text x="720" y="278" text-anchor="middle" class="text">语音输入</text>
+  <text x="720" y="302" text-anchor="middle" class="small">Vosk离线识别</text>
+  <rect x="850" y="250" width="160" height="70" class="module-green"/>
+  <text x="930" y="278" text-anchor="middle" class="text">模型管理</text>
+  <text x="930" y="302" text-anchor="middle" class="small">路径/状态/切换</text>
+
+  <rect x="55" y="385" width="1090" height="120" class="layer"/>
+  <text x="90" y="425" class="label">本地存储与数据层</text>
+  <rect x="250" y="405" width="170" height="70" class="module-purple"/>
+  <text x="335" y="433" text-anchor="middle" class="text">Room数据库</text>
+  <text x="335" y="457" text-anchor="middle" class="small">会话/消息/文档/分块</text>
+  <rect x="515" y="405" width="170" height="70" class="module-purple"/>
+  <text x="600" y="433" text-anchor="middle" class="text">DataStore</text>
+  <text x="600" y="457" text-anchor="middle" class="small">模型路径与偏好</text>
+  <rect x="780" y="405" width="170" height="70" class="module-purple"/>
+  <text x="865" y="433" text-anchor="middle" class="text">内部文件目录</text>
+  <text x="865" y="457" text-anchor="middle" class="small">SAF文档复制后读取</text>
+
+  <rect x="55" y="540" width="1090" height="120" class="layer"/>
+  <text x="90" y="580" class="label">Native推理层</text>
+  <rect x="210" y="560" width="180" height="70" class="module-orange"/>
+  <text x="300" y="588" text-anchor="middle" class="text">JNI接口</text>
+  <text x="300" y="612" text-anchor="middle" class="small">Kotlin ⇄ C++</text>
+  <rect x="455" y="560" width="180" height="70" class="module-orange"/>
+  <text x="545" y="588" text-anchor="middle" class="text">MNN LLM</text>
+  <text x="545" y="612" text-anchor="middle" class="small">量化模型流式推理</text>
+  <rect x="700" y="560" width="180" height="70" class="module-orange"/>
+  <text x="790" y="588" text-anchor="middle" class="text">MNN Embedding</text>
+  <text x="790" y="612" text-anchor="middle" class="small">BGE向量计算</text>
+  <rect x="945" y="560" width="150" height="70" class="module-orange"/>
+  <text x="1020" y="588" text-anchor="middle" class="text">Vosk</text>
+  <text x="1020" y="612" text-anchor="middle" class="small">16000Hz PCM</text>
+
+  <rect x="55" y="695" width="1090" height="85" class="layer"/>
+  <text x="90" y="733" class="label">模型优化与部署基础</text>
+  <rect x="270" y="710" width="180" height="50" class="module-gray"/>
+  <text x="360" y="740" text-anchor="middle" class="text">SmoothQuant</text>
+  <rect x="510" y="710" width="180" height="50" class="module-gray"/>
+  <text x="600" y="740" text-anchor="middle" class="text">OmniQuant</text>
+  <rect x="750" y="710" width="180" height="50" class="module-gray"/>
+  <text x="840" y="740" text-anchor="middle" class="text">Eagle投机解码</text>
+
+  <path d="M600 195 V220" class="arrow"/>
+  <path d="M600 350 V375" class="arrow"/>
+  <path d="M600 505 V530" class="arrow"/>
+  <path d="M600 660 V685" class="dash"/>
+  <path d="M510 320 C510 355 335 365 335 395" class="arrow"/>
+  <path d="M720 320 C720 355 1020 520 1020 550" class="dash"/>
+  <path d="M510 320 C510 500 790 520 790 550" class="arrow"/>
+</svg>

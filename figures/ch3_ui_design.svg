@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <style>
+      .title{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:30px;font-weight:700;fill:#111827}
+      .phone{fill:#f8fafc;stroke:#111827;stroke-width:3;rx:32;ry:32}
+      .screen{fill:#ffffff;stroke:#cbd5e1;stroke-width:2;rx:20;ry:20}
+      .bar{fill:#e0f2fe;stroke:#0284c7;stroke-width:1.6;rx:10;ry:10}
+      .nav{fill:#f1f5f9;stroke:#94a3b8;stroke-width:1.5;rx:12;ry:12}
+      .bubble1{fill:#dbeafe;stroke:#2563eb;stroke-width:1.6;rx:12;ry:12}
+      .bubble2{fill:#dcfce7;stroke:#16a34a;stroke-width:1.6;rx:12;ry:12}
+      .card{fill:#fff7ed;stroke:#ea580c;stroke-width:1.6;rx:12;ry:12}
+      .setting{fill:#faf5ff;stroke:#9333ea;stroke-width:1.6;rx:12;ry:12}
+      .text{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:16px;font-weight:700;fill:#111827}
+      .small{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:12px;fill:#475569}
+      .tiny{font-family:'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif;font-size:11px;fill:#64748b}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="title">端侧多模态 LLM 应用用户界面概要设计</text>
+
+  <rect x="70" y="90" width="240" height="570" class="phone"/>
+  <rect x="90" y="120" width="200" height="500" class="screen"/>
+  <rect x="105" y="138" width="170" height="44" class="bar"/>
+  <text x="190" y="166" text-anchor="middle" class="text">聊天页面</text>
+  <rect x="108" y="205" width="125" height="48" class="bubble2"/>
+  <text x="170" y="234" text-anchor="middle" class="small">助手回复区域</text>
+  <rect x="155" y="275" width="118" height="46" class="bubble1"/>
+  <text x="214" y="303" text-anchor="middle" class="small">用户消息</text>
+  <rect x="108" y="345" width="150" height="58" class="bubble2"/>
+  <text x="183" y="374" text-anchor="middle" class="small">流式生成内容</text>
+  <rect x="108" y="505" width="170" height="42" class="nav"/>
+  <text x="193" y="531" text-anchor="middle" class="small">图片 / 输入框 / 语音 / RAG</text>
+  <rect x="108" y="565" width="170" height="34" class="nav"/>
+  <text x="193" y="587" text-anchor="middle" class="tiny">聊天  模板  知识库  设置</text>
+
+  <rect x="350" y="90" width="240" height="570" class="phone"/>
+  <rect x="370" y="120" width="200" height="500" class="screen"/>
+  <rect x="385" y="138" width="170" height="44" class="bar"/>
+  <text x="470" y="166" text-anchor="middle" class="text">模板页面</text>
+  <rect x="388" y="210" width="164" height="58" class="card"/>
+  <text x="470" y="242" text-anchor="middle" class="small">摘要模板</text>
+  <rect x="388" y="292" width="164" height="58" class="card"/>
+  <text x="470" y="324" text-anchor="middle" class="small">翻译模板</text>
+  <rect x="388" y="374" width="164" height="58" class="card"/>
+  <text x="470" y="406" text-anchor="middle" class="small">代码解释模板</text>
+  <rect x="388" y="565" width="164" height="34" class="nav"/>
+  <text x="470" y="587" text-anchor="middle" class="tiny">点击后回填聊天输入框</text>
+
+  <rect x="630" y="90" width="240" height="570" class="phone"/>
+  <rect x="650" y="120" width="200" height="500" class="screen"/>
+  <rect x="665" y="138" width="170" height="44" class="bar"/>
+  <text x="750" y="166" text-anchor="middle" class="text">知识库页面</text>
+  <rect x="668" y="205" width="164" height="44" class="bubble2"/>
+  <text x="750" y="232" text-anchor="middle" class="small">导入本地文档</text>
+  <rect x="668" y="275" width="164" height="58" class="card"/>
+  <text x="750" y="302" text-anchor="middle" class="small">文档状态：就绪</text>
+  <text x="750" y="322" text-anchor="middle" class="tiny">分块数 / 导入时间</text>
+  <rect x="668" y="360" width="164" height="58" class="card"/>
+  <text x="750" y="387" text-anchor="middle" class="small">文档状态：处理中</text>
+  <text x="750" y="407" text-anchor="middle" class="tiny">解析 / 向量化</text>
+  <rect x="668" y="565" width="164" height="34" class="nav"/>
+  <text x="750" y="587" text-anchor="middle" class="tiny">管理 RAG 数据源</text>
+
+  <rect x="910" y="90" width="240" height="570" class="phone"/>
+  <rect x="930" y="120" width="200" height="500" class="screen"/>
+  <rect x="945" y="138" width="170" height="44" class="bar"/>
+  <text x="1030" y="166" text-anchor="middle" class="text">设置页面</text>
+  <rect x="948" y="212" width="164" height="58" class="setting"/>
+  <text x="1030" y="239" text-anchor="middle" class="small">选择 Qwen3-VL 模型</text>
+  <text x="1030" y="259" text-anchor="middle" class="tiny">加载状态显示</text>
+  <rect x="948" y="302" width="164" height="58" class="setting"/>
+  <text x="1030" y="329" text-anchor="middle" class="small">选择 Embedding</text>
+  <text x="1030" y="349" text-anchor="middle" class="tiny">知识库检索前置</text>
+  <rect x="948" y="392" width="164" height="58" class="setting"/>
+  <text x="1030" y="419" text-anchor="middle" class="small">历史与缓存管理</text>
+  <text x="1030" y="439" text-anchor="middle" class="tiny">清理 / 重载</text>
+  <rect x="948" y="565" width="164" height="34" class="nav"/>
+  <text x="1030" y="587" text-anchor="middle" class="tiny">模型配置入口</text>
+
+  <text x="600" y="715" text-anchor="middle" class="small">底部导航保持四个核心页面一致；各页面通过状态提示降低模型加载、图像选择、文档处理和流式生成的不确定性</text>
+</svg>
